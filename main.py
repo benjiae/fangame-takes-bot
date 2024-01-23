@@ -5,7 +5,7 @@ import time
 import random
 
 def readfile(file):
-    files = open(file, "r")
+    files = open("text/" + file, "r")
     array = []
 
     for i in files:
