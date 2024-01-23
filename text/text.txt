@@ -9,6 +9,4 @@ Someone should remake {fangame[0]}!
 man i love {fangame[0]}
 They should add {fangame[0]} to the {spreadsheet[0]}!
 Someone needs to make another {event[0]}...
-{player[0]} Should clear {fangame[0]}!
-{player[0]} is better than {player[1]} imo
-{player[0]} is worse than {player[1]} imo
+Everyone should clear {fangame[0]} ngl

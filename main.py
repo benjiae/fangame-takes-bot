@@ -64,17 +64,13 @@ client = tweepy.Client(
 while True: # Text randomizer + tweeting
 
     fangames = readfile("fangames.txt")
-    makers = readfile("makers.txt")
     events = readfile("events.txt")
     spreadsheets = readfile("spreadsheets.txt")
-    players = readfile("players.txt")
     texts = readfile("text.txt")
     
     fangame = randomize(fangames)
-    maker = randomize(makers)
     event = randomize(events)
     spreadsheet = randomize(spreadsheets)
-    player = randomize(players)
 
     tweet = random.choice(texts)
     tweet = str(tweet).replace('\n', '')
