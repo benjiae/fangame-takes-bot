@@ -21,13 +21,6 @@ def randomize(vari):
 
     return text
 
-fangames = readfile("fangames.txt")
-makers = readfile("makers.txt")
-events = readfile("events.txt")
-spreadsheets = readfile("spreadsheets.txt")
-players = readfile("players.txt")
-texts = readfile("text.txt")
-
 ##################################################
 
 load_dotenv()
@@ -68,7 +61,15 @@ client = tweepy.Client(
 
 ##############################################
 
-while True:
+while True: # Text randomizer + tweeting
+
+    fangames = readfile("fangames.txt")
+    makers = readfile("makers.txt")
+    events = readfile("events.txt")
+    spreadsheets = readfile("spreadsheets.txt")
+    players = readfile("players.txt")
+    texts = readfile("text.txt")
+    
     fangame = randomize(fangames)
     maker = randomize(makers)
     event = randomize(events)
