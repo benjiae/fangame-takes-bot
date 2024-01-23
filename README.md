@@ -5,7 +5,7 @@ A simple twitter bot that tweets fangame related stuff every 30 minutes\
 ## Beforehand:
 0.1: Get the dependencies:
   - python-dotenv
-  - tweepy
+  - tweepy\
 0.2: [Make a Twitter application](https://developer.twitter.com/)
 
 ## Setup:
