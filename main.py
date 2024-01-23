@@ -30,8 +30,6 @@ texts = readfile("text.txt")
 
 ##################################################
 
-endpoint = "api.twitter.com/2/tweets"
-
 load_dotenv()
 
 BEARER = os.getenv("BEARER_TOKEN")
@@ -68,7 +66,8 @@ client = tweepy.Client(
     access_token_secret=ACCESS_SECRET
 )
 
-####################################
+##############################################
+
 while True:
     fangame = randomize(fangames)
     maker = randomize(makers)
