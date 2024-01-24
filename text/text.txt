@@ -21,4 +21,6 @@ what was {fangame[0]} i forgot
 {fangame[0]} is the fangame of all time
 why is {fangame[0]} on the {spreadsheet[0]}
 why is {fangame[0]} on {event[0]}
+{fangame[0]} is the {fangame[1]} of {type[0]} games
+why are {type[0]} games so bad holy fuck
 {game[0]} looks really good, and I really want to play it, but I doubt it's as good as {fangame[0]}
