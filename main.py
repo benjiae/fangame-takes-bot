@@ -85,12 +85,13 @@ while True: # Text randomizer + tweeting
     tweet = str(tweet).replace('\n', '')
 
     tweet = f'f"{tweet}"'
-    
+    tweet = eval(tweet)
+
     if tweet in tweets:
         print("repeated")
         time.sleep(5)
     else:
-        client.create_tweet(text = eval(tweet))
+        client.create_tweet(text = tweet)
         print(tweet)
         appendfile("tweets.txt", tweet)
         time.sleep(1800)
