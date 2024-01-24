@@ -18,7 +18,7 @@ A simple twitter bot that tweets fangame related stuff every 30 minutes\
 3. congrats it works
 
 # Modification:
-There are a few TXT Files that contain some variables (fangames, makers, events, spreadsheets, players and texts), you can edit them, but "text.txt" contains the randomized tweets.\
+There are a few TXT Files that contain some variables (fangames, events, spreadsheets and texts), you can edit them, but "text.txt" contains the randomized tweets.\
 Edit main.py to fit your needs.
 
 # Contributing:
