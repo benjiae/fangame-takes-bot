@@ -74,11 +74,13 @@ while True: # Text randomizer + tweeting
     spreadsheets = readfile("text/spreadsheets.txt")
     texts = readfile("text/text.txt")
     types = readfile("text/types.txt")
+    games = readfile("text/games.txt")
     tweets = readfile("tweets.txt")
     
     fangame = randomize(fangames)
     event = randomize(events)
     spreadsheet = randomize(spreadsheets)
+    game = randomize(games)
     f_type = randomize(types)
 
     tweet = random.choice(texts)
