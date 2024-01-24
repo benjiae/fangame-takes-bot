@@ -5,14 +5,20 @@ import time
 import random
 
 def readfile(file):
-    files = open("text/" + file, "r")
+    files = open("" + file, "r", encoding="utf8")
+    text = list(map(lambda string: string.rstrip("\n"), files))
     array = []
 
-    for i in files:
+    for i in text:
         array.append(i)
 
     files.close()
     return array
+
+def appendfile(file, text):
+    files = open("" + file, "a")
+    files.write(text + '\n')
+    files.close()
 
 def randomize(vari):
     temp = [random.choice(vari), random.choice(vari)]
@@ -63,11 +69,12 @@ client = tweepy.Client(
 
 while True: # Text randomizer + tweeting
 
-    fangames = readfile("fangames.txt")
-    events = readfile("events.txt")
-    spreadsheets = readfile("spreadsheets.txt")
-    texts = readfile("text.txt")
-    types = readfile("types.txt")
+    fangames = readfile("text/fangames.txt")
+    events = readfile("text/events.txt")
+    spreadsheets = readfile("text/spreadsheets.txt")
+    texts = readfile("text/text.txt")
+    types = readfile("text/types.txt")
+    tweets = readfile("tweets.txt")
     
     fangame = randomize(fangames)
     event = randomize(events)
@@ -78,5 +85,13 @@ while True: # Text randomizer + tweeting
     tweet = str(tweet).replace('\n', '')
 
     tweet = f'f"{tweet}"'
-    client.create_tweet(text = eval(tweet))
-    time.sleep(1800)
+    
+    if tweet in tweets:
+        print("repeated")
+        time.sleep(5)
+    else:
+        client.create_tweet(text = eval(tweet))
+        print(tweet)
+        appendfile("tweets.txt", tweet)
+        time.sleep(1800)
+    continue
