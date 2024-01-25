@@ -16,7 +16,7 @@ def readfile(file):
     return array
 
 def appendfile(file, text):
-    files = open("" + file, "a")
+    files = open("" + file, "a", encoding="utf8")
     files.write(text + '\n')
     files.close()
 
