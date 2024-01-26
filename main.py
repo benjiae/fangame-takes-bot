@@ -6,7 +6,7 @@ import random
 from datetime import datetime
 
 def readfile(file):
-    files = open("" + file, "r", encoding="utf8")
+    files = open(file, "r", encoding="utf8")
     text = list(map(lambda string: string.rstrip("\n"), files))
     array = []
 
