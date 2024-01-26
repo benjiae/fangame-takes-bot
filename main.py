@@ -84,7 +84,7 @@ while True: # Text randomizer + tweeting
     tweet = f'f"{tweet}"'
     tweet = eval(tweet)
 
-    print(tweet + datetime.now().strftime("%H:%M:%S"))  
+    print(tweet + " " + datetime.now().strftime("%H:%M:%S"))  
     try:
         client.create_tweet(text = tweet)
         time.sleep(1800)
