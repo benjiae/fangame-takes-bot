@@ -71,7 +71,6 @@ while True: # Text randomizer + tweeting
     texts = readfile("text/text.txt")
     types = readfile("text/types.txt")
     games = readfile("text/games.txt")
-    tweets = readfile("tweets.txt")
     
     fangame = randomize(fangames)
     event = randomize(events)
