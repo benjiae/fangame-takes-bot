@@ -3,6 +3,7 @@ import os
 import tweepy
 import time
 import random
+from datetime import datetime
 
 def readfile(file):
     files = open("" + file, "r", encoding="utf8")
@@ -14,11 +15,6 @@ def readfile(file):
 
     files.close()
     return array
-
-def appendfile(file, text):
-    files = open("" + file, "a", encoding="utf8")
-    files.write(text + '\n')
-    files.close()
 
 def randomize(vari):
     temp = [random.choice(vari), random.choice(vari)]
@@ -89,12 +85,10 @@ while True: # Text randomizer + tweeting
     tweet = f'f"{tweet}"'
     tweet = eval(tweet)
 
-    if tweet in tweets:
-        print("repeated")
-        time.sleep(5)
-    else:
+    print(tweet + datetime.now().strftime("%H:%M:%S"))  
+    try:
         client.create_tweet(text = tweet)
-        print(tweet)
-        appendfile("tweets.txt", tweet)
         time.sleep(1800)
-    continue
+    except tweepy.errors.Forbidden:
+        print("^ forbidden, probably repeated")
+        time.sleep(10)
