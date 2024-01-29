@@ -87,7 +87,7 @@ while True: # Text randomizer + tweeting
     print(tweet + " " + datetime.now().strftime("%H:%M:%S"))  
     try:
         client.create_tweet(text = tweet)
-        time.sleep(1800)
+        time.sleep(1799) # twitter takes 1 second to tweet, this makes it align every actual 30 minutes
     except tweepy.errors.Forbidden:
         print("^ forbidden, probably repeated")
         time.sleep(10)
