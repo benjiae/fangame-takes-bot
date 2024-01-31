@@ -24,3 +24,11 @@ why is {fangame[0]} on {event[0]}
 {fangame[0]} is the {fangame[1]} of {f_type[0]} games
 why are {f_type[0]} games so bad holy fuck
 {game[0]} looks really good, and I really want to play it, but I doubt it's as good as {fangame[0]}
+{fangame[0]} is so overrated
+{fangame[0]} is so underrated
+{f_type[0]} are impossible ngl
+Cool {fangame[0]} screens, a thread 🧵: (0/{random.randint(1,30)})
+i have just found out that {fangame[0]} is the best fangame of all time, there's the reasons: (0/{random.randint(1,97)})
+wdym {fangame[0]} has a rating of {random.randint(1,10)}.{random.randint(0,9)} it should be like {random.randint(1,10)}.{random.randint(0,9)}
+there's no way in hell {fangame[0]} is {random.randint(0,99)}.{random.randint(0,9)} diff, it's like {random.randint(0,99)}.{random.randint(0,9)}
+does anyone have the {fangame[0]} maker's @ i wanna tell them something
