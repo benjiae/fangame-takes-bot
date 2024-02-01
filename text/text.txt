@@ -26,7 +26,7 @@ why are {f_type[0]} games so bad holy fuck
 {game[0]} looks really good, and I really want to play it, but I doubt it's as good as {fangame[0]}
 {fangame[0]} is so overrated
 {fangame[0]} is so underrated
-{f_type[0]} are impossible ngl
+{f_type[0]} games are impossible ngl
 Cool {fangame[0]} screens, a thread 🧵: (0/{random.randint(1,30)})
 i have just found out that {fangame[0]} is the best fangame of all time, there's the reasons: (0/{random.randint(1,97)})
 wdym {fangame[0]} has a rating of {random.randint(1,10)}.{random.randint(0,9)} it should be like {random.randint(1,10)}.{random.randint(0,9)}
