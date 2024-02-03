@@ -32,3 +32,8 @@ i have just found out that {fangame[0]} is the best fangame of all time, there's
 wdym {fangame[0]} has a rating of {random.randint(1,10)}.{random.randint(0,9)} it should be like {random.randint(1,10)}.{random.randint(0,9)}
 there's no way in hell {fangame[0]} is {random.randint(0,99)}.{random.randint(0,9)} diff, it's like {random.randint(0,99)}.{random.randint(0,9)}
 does anyone have the {fangame[0]} maker's @ i wanna tell them something
+{thing[0]} ruined {f_type[0]}
+why does {fangame[0]} have {thing[0]}
+my favorite part of {fangame[0]} are the {thing[0]}
+{thing[0]} are better than {thing[1]}
+man i love {f_type[0]} games

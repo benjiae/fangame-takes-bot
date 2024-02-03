@@ -1,0 +1,8 @@
+spikes
+rng
+gimmicks
+hard jumps
+patterns
+traps
+triggers
+references
