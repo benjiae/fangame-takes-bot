@@ -1,4 +1,4 @@
-A simple twitter/bluesky bot that posts fangame related stuff every 30 minutes\
+A simple twitter/bluesky bot that posts fangame related stuff every 30 minutes
 
 "Official" Account pages:
 - https://twitter.com/badfangametakes
