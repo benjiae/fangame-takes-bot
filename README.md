@@ -1,4 +1,4 @@
-A simple twitter/bluesky bot that posts fangame related stuff every 30 minutes
+A simple twitter/bluesky bot that posts fangame related stuff every 30 minutes\
 
 "Official" Account pages:
 - https://twitter.com/badfangametakes
@@ -44,13 +44,13 @@ BSKYPASSWORD=Bluesky bot account password
 
 # Modification:
 
-There are a few TXT Files that contain some variables (fangames, events, spreadsheets, types and texts), you can edit them, but "text.txt" contains the randomized tweets.\
+There are a few TXT Files that contain some variables (fangames, events, spreadsheets, types and texts), you can edit them, but "text.txt" contains the randomized tweets.
 
 Edit main.py to fit your needs.
 
   
 # Contributing:
 
-make a pr and i'll probably accept it\
+make a pr and i'll probably accept it
 
 make an issue and i'll probably fix it
