@@ -1,7 +1,7 @@
-Man i wish {fangame[0]} had a sequel...
-Someone should remake {fangame[0]}!
-{fangame[0]} is a good beginner game!
-{fangame[0]} is a bad beginner game!
+man i wish {fangame[0]} had a sequel
+someone should remake {fangame[0]}
+{fangame[0]} is a good beginner game
+{fangame[0]} is a bad beginner game
 {fangame[0]} is actually impossible ngl
 {fangame[0]} is harder than {fangame[1]} imo
 {fangame[0]} is harder than {fangame[1]} imo
@@ -11,7 +11,7 @@ Someone should remake {fangame[0]}!
 {fangame[0]} should be lower on the {spreadsheet[0]} imo
 man i love {fangame[0]}
 man i hate {fangame[0]}
-They should add {fangame[0]} to the {spreadsheet[0]}!
+They should add {fangame[0]} to the {spreadsheet[0]}
 Someone needs to make another {event[0]}...
 Everyone should play {fangame[0]} ngl
 {fangame[0]} is the {fangame[1]} of {f_type[0]} games
