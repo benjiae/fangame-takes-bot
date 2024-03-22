@@ -20,11 +20,11 @@ A simple twitter/bluesky bot that posts fangame related stuff every 30 minutes\
 
 1. make a .env file that follows this example:
 ```
-BEARER_TOKEN=Bearer Token
+BEARER_TOKEN=Twitter Bearer Token
 
-API_KEY=Api Key
+API_KEY=Twitter Api Key
 
-API_SECRET=Api Secret
+API_SECRET=Twitter Api Secret
 
   
 
