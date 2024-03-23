@@ -41,11 +41,11 @@ BSKYPASSWORD = os.getenv("BSKYPASSWORD")
 ## Twitter
 
 if ACCESS_TOKEN == "" or ACCESS_SECRET == "":
-    print("No access token OR access secret found, please use get_access_token.py")
+    print("No access token OR access secret found, please use get_access_keys.py")
     exit()
 
 if os.getenv("ACCESS_TOKEN") == None or os.getenv("ACCESS_SECRET") == None:
-    print("No access token OR access secret found, please use get_access_token.py")
+    print("No access token OR access secret found, please use get_access_keys.py")
     exit()
 
 auth = tweepy.OAuth1UserHandler(
