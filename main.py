@@ -28,39 +28,36 @@ def randomize(vari):
 
 load_dotenv()
 
-BEARER = os.getenv("BEARER_TOKEN")
-APIKEY = os.getenv("API_KEY")
-APISECRET = os.getenv("API_SECRET")
+API_KEY = os.getenv("API_KEY")
+API_SECRET = os.getenv("API_SECRET")
+
+ACCESS_TOKEN = os.getenv("ACCESS_TOKEN")
+ACCESS_SECRET = os.getenv("ACCESS_SECRET")
+
 BSKYHANDLE = os.getenv("BSKYHANDLE")
 BSKYPASSWORD = os.getenv("BSKYPASSWORD")
-CALLBACK = "http://localhost:8000"
 
 
 ## Twitter
 
-user_handler = tweepy.OAuth1UserHandler(
-    APIKEY, APISECRET,
-    callback=CALLBACK
-)
+if ACCESS_TOKEN == "" or ACCESS_SECRET == "":
+    print("No access token OR access secret found, please use get_access_token.py")
+    exit()
 
-print(user_handler.get_authorization_url())
-
-oAuth = input("OAuth Verifier: ")
-
-ACCESS_TOKEN, ACCESS_SECRET = user_handler.get_access_token(
-    oAuth
-)
+if os.getenv("ACCESS_TOKEN") == None or os.getenv("ACCESS_SECRET") == None:
+    print("No access token OR access secret found, please use get_access_token.py")
+    exit()
 
 auth = tweepy.OAuth1UserHandler(
-   APIKEY, APISECRET,
-   ACCESS_TOKEN, ACCESS_SECRET
+    API_KEY, API_SECRET,
+    ACCESS_TOKEN, ACCESS_SECRET
 )
 
 api = tweepy.API(auth)
 
 twitterClient = tweepy.Client(
-    consumer_key=APIKEY,
-    consumer_secret=APISECRET,
+    consumer_key=API_KEY,
+    consumer_secret=API_SECRET,
     access_token=ACCESS_TOKEN,
     access_token_secret=ACCESS_SECRET
 )
@@ -68,6 +65,7 @@ twitterClient = tweepy.Client(
 ## Bluesky
 bskyClient = atproto.Client()
 bskyClient.login(BSKYHANDLE, BSKYPASSWORD)
+
 
 while True: # Text randomizer + posting
 
@@ -85,7 +83,7 @@ while True: # Text randomizer + posting
     spreadsheet = randomize(spreadsheets)
     game = randomize(games)
     thing = randomize(things)
-#    player = randomize(players)
+#    player = randomize(players) // Players won't be used until there's more than 3 guys
     
     f_type = randomize(types)
 
@@ -95,14 +93,11 @@ while True: # Text randomizer + posting
     post = f'f"{post}"'
     post = eval(post)
 
-    print(post + " " + datetime.now().strftime("%H:%M:%S"))  
     try:
         twitterClient.create_tweet(text = post)
         bskyClient.send_post(text= post)
-        time.sleep(1799.5) # twitter takes .5 seconds to tweet, this makes it align every actual 30 minutes
+        print(post + " | posted at: " + datetime.now().strftime("%H:%M:%S"))  
+        time.sleep(1800)
     except tweepy.errors.Forbidden:
         print("Twitter error: tweepy.errors.Forbidden")
-        time.sleep(10)
-    except atproto.exceptions.AtProtocolError:
-        print("Bluesky error: atproto.exceptions.AtProtocolError")
         time.sleep(10)

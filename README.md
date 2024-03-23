@@ -1,4 +1,4 @@
-A simple twitter/bluesky bot that posts fangame related stuff every 30 minutes\
+A simple twitter/bluesky bot that posts fangame related stuff every 30 minutes
 
 "Official" Account pages:
 - https://twitter.com/badfangametakes
@@ -21,25 +21,22 @@ A simple twitter/bluesky bot that posts fangame related stuff every 30 minutes\
 1. make a .env file that follows this example:
 ```
 BEARER_TOKEN=Bearer Token
-
 API_KEY=Api Key
-
 API_SECRET=Api Secret
-
+ACCESS_TOKEN=Access Token, get from get_access_keys.py
+ACCESS_SECRET=Access Secret, get from get_access_keys.py
   
 
 BSKYHANDLE=Bluesky bot account handle
-
 BSKYPASSWORD=Bluesky bot account password
 ```
 
 
-2. Run the executable, it will send you a twitter URL and will ask you for the OAuth verifier, enter the URL, authorize and on the page that it returns to (which will fail), get the "oauth_verifier" query thing
+2. Run ```get_access_keys``` to get both the access token and access secret, you can then put them on your .env file
 
-###### TODO: Automate this
-
+3. Run ```main.py```
   
-3. congrats it works
+4. congrats it works
 
 
 # Modification:
