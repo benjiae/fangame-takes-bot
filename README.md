@@ -29,7 +29,9 @@ TWITTER_API_SECRET= Twitter Api Secret
 
 2. Run ```main.py```
 
-3. congrats it works
+3. As you don't have the access token nor the access key, it will ask you to put them on your .env, do that and then run it again
+
+4. congrats it works
 
 
 # Modification:
