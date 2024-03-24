@@ -4,21 +4,28 @@ import os
 
 load_dotenv()
 
-APIKEY = os.getenv("API_KEY")
-APISECRET = os.getenv("API_SECRET")
-CALLBACK = "http://localhost:8000"
+apiKey = os.getenv("TWITTER_API_KEY")
+apiSecret = os.getenv("TWITTER_API_SECRET")
+twtAccessToken = os.getenv("TWITTER_ACCESS_TOKEN")
+twtAccessSecret = os.getenv("TWITTER_ACCESS_SECRET")
+callback = "http://localhost:8000"
 
-user_handler = tweepy.OAuth1UserHandler(
-    APIKEY, APISECRET,
-    callback=CALLBACK
-)
+def get_keys():
+    if twtAccessToken == ("" or None) or twtAccessSecret == ("" or None):
+        user_handler = tweepy.OAuth1UserHandler(
+            apiKey, apiSecret,
+            callback=callback
+        )
 
-print(user_handler.get_authorization_url())
+        print(user_handler.get_authorization_url())
 
-oAuth = input("OAuth Verifier: ")
+        oAuth = input("Twitter OAuth Verifier: ")
 
-ACCESS_TOKEN, ACCESS_SECRET = user_handler.get_access_token(
-    oAuth
-)
+        accessToken, accessSecret = user_handler.get_access_token(
+            oAuth
+        )
 
-print("Access Token: " + ACCESS_TOKEN + ", Access Secret: " + ACCESS_SECRET)
+        print("TWITTER_ACCESS_TOKEN=" + accessToken)
+        print("TWITTER_ACCESS_SECRET=" + accessSecret)
+        print("Please save them on your .env file")
+        exit()
