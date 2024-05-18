@@ -30,6 +30,10 @@ def post(tweet):
     print("Posting this in 10 seconds:")
     print(tweet)
     time.sleep(10)
-    twitterClient.create_tweet(text = tweet)
-    blueskyClient.send_post(text = tweet)
-    print("Posted at: " + datetime.now().strftime("%H:%M:%S"))
+    try:
+        twitterClient.create_tweet(text = tweet)
+        blueskyClient.send_post(text = tweet)
+        print("Posted at: " + datetime.now().strftime("%H:%M:%S"))
+    except tweepy.errors.Forbidden:
+        print("tweepy.errors.Forbidden | probably repeated")
+        time.sleep(10)
