@@ -7,7 +7,7 @@ from datetime import datetime
 import random
 
 def readfile(file):
-    files = open("/home/benjae/git/fangame-takes-bot/text/" + file + ".txt", "r", encoding="utf8")
+    files = open("/home/user/bots/fangame-takes-bot/text/" + file + ".txt", "r", encoding="utf8")
     text = list(map(lambda string: string.rstrip("\n"), files))
     array = []
 
