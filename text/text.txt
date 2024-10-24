@@ -1,18 +1,19 @@
 man i wish {fangame[0]} had a sequel
 someone should remake {fangame[0]}
+{fangame[0]} should've never existed imo
 {fangame[0]} is a good beginner game
 {fangame[0]} is a bad beginner game
 {fangame[0]} is actually impossible ngl
 {fangame[0]} is harder than {fangame[1]} imo
-{fangame[0]} is harder than {fangame[1]} imo
+{fangame[0]} is easier than {fangame[1]} imo
 {fangame[0]} is such an amazing fangame holy shit
-{fangame[0]} sucks so bad holy shit
+{fangame[0]} sucks so much it's insane
 {fangame[0]} should be higher on the {spreadsheet[0]} imo
 {fangame[0]} should be lower on the {spreadsheet[0]} imo
 man i love {fangame[0]}
 man i hate {fangame[0]}
+man i feel indifferent about {fangame[0]}
 They should add {fangame[0]} to the {spreadsheet[0]}
-Someone needs to make another {event[0]}...
 Everyone should play {fangame[0]} ngl
 {fangame[0]} is the {fangame[1]} of {f_type[0]} games
 bro the songs in {fangame[0]} are so good
@@ -37,3 +38,6 @@ why does {fangame[0]} have {thing[0]}
 my favorite part of {fangame[0]} are the {thing[0]}
 {thing[0]} are better than {thing[1]}
 man i love {f_type[0]} games
+{fangame[0]} would be better if it had {thing[0]}
+{fangame[0]} would be worse if it had {thing[0]}
+man imagine if {thing[0]} was more like {thing[1]}

@@ -6,3 +6,11 @@ patterns
 traps
 triggers
 references
+cherries
+jumps
+easy jumps
+decently hard jumps
+invisible triggers
+really visible triggers
+seeding
+original things
