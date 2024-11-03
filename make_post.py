@@ -32,8 +32,15 @@ def post(tweet):
     time.sleep(10)
     try:
         twitterClient.create_tweet(text = tweet)
-        blueskyClient.send_post(text = tweet)
-        print("Posted at: " + datetime.now().strftime("%H:%M:%S"))
     except tweepy.errors.Forbidden:
         print("tweepy.errors.Forbidden | probably repeated")
         time.sleep(10)
+    except tweepy.errors.TooManyRequests:
+        print("tweepy.errors.Forbidden")
+        time.sleep(10)
+    try:
+        blueskyClient.send_post(text = tweet)
+    except:
+        print("failed :(")
+        return 1;
+    print("Posted at: " + datetime.now().strftime("%H:%M:%S"))
