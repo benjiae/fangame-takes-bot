@@ -2,6 +2,8 @@ import tweepy
 import dotenv
 import os
 
+dotenv.load_dotenv()
+
 post = open("post.txt", "r", encoding="utf-8")
 
 twtApiKey = os.getenv("TWITTER_API_KEY")
