@@ -47,6 +47,7 @@ I wanna be the 0.0
 I wanna 0.5
 I wanna 0212
 0306
+0307
 I Wanna Be The 0719
 I wanna 0721
 I wanna be the 0x00FF00
@@ -57,7 +58,7 @@ I wanna be the 1 Room
 I wanna 1 screen
 I wanna 1 screen II
 I wanna 1 Screen III
-1,5連納豆
+1 spike in 1 room
 I Wanna 1.1
 I wanna 1.15%
 I wanna 1.2
@@ -72,6 +73,7 @@ I wanna 10s Needle
 I wanna 10s Needle 2
 10連針
 I Wanna 1116
+113 present lamron area
 I wanna be the 118
 11連針
 I wanna be the 120 Dreams
@@ -164,7 +166,8 @@ I wanna 23s
 I wanna 23s needle
 I wanna 24
 i wanna 24 spikes
-I wanna 24h Challenge
+I Wanna 24H Challenge
+I wanna be the 25 blue needle trap
 I wanna be the 25 level
 I wanna be the 25 needle trap
 I wanna be the 25 trap
@@ -212,9 +215,6 @@ I wanna 3920
 I wanna be the 3968
 I wanna 3:00 Morning Recovery
 3D
-I wanna be the 3d game
-I wanna be the 3d game 2
-I wanna be the 3D!!
 3H
 I wanna 3H2
 I wanna be the 3lt@s4x9uo
@@ -254,8 +254,11 @@ I wanna 5map Needle Game
 I Wanna 5t3 ▲
 I wanna be the 5th world
 6.exe
+I Wanna 6/4
 I wanna 64
+I wanna be the 65472
 I wanna be the 69
+I Wanna 69
 I wanna be the 6map
 6連針
 I wanna be the 7
@@ -324,6 +327,7 @@ A way to my hometown
 A week i wanna
 A World of Seven Elements
 A World of Seven Elements (brand new RPG)
+A world of seven elements v1.4
 A written challenge from Death
 A. C. E.
 I wanna be the A.D.H.D
@@ -370,6 +374,7 @@ I wanna be the Accurately
 acenaphthylene
 I Wanna Achieve
 I wanna achieve my dream
+I wanna Achieve Peace
 I wanna achieve the dream
 I wanna be the Achievement
 I wanna be the Acid
@@ -413,6 +418,7 @@ I wanna adventure the rinri world
 I wanna adventure the Star sky
 I wanna adventure to Ryo-
 I wanna adventure to ryo- ストーリー無し ver
+Adventure with bosses spamton and pig
 I wanna be the Adventurer
 I wanna be the adventurer
 I wanna be the adventurer 2
@@ -477,6 +483,7 @@ I wanna be the All
 all bananaguy12 games download
 All games by 0q938r (Reupload)
 All I need are things I like
+I wanna all in
 I wanna All placement!!!
 I wanna be the ALL STARS
 All the wishes
@@ -637,7 +644,9 @@ I wanna be the Armageddon
 I wanna Armagendo
 I Wanna be the Aroundight
 I wanna arrange
+I Wanna be the arrival of newcomers
 I wanna arrive the Ambitious
+arrogant
 I wanna be the Arsenic
 I wanna be the Art
 I wanna Art the COM
@@ -663,6 +672,7 @@ I wanna be the ASN
 I wanna be the ASR
 Assassinate.
 I wanna be the assassination
+I wanna Assemble the 12
 I Wanna Assimilate Bummer Into The Secret Society Of Kemonomimi
 I Wanna Assimilate The Needle
 I wanna be the Associate
@@ -704,6 +714,7 @@ I wanna Aurora
 I wanna Aurum
 Auspicious Fortune
 I wanna be the Autism
+I wanna be the Autumn
 I wanna be the AutumnWater spike
 I wanna be the AV
 I wanna be the Average
@@ -727,7 +738,7 @@ I wanna avoid Shadow Spike
 I wanna avoid Shadow Spike2
 I wanna avoid the 3D barrage
 I wanna avoid the 3D barrage 2
-I wanna avoid the another world
+I wanna avoid the abyss (Demo v 1.0)
 I wanna avoid the anxious
 I wanna avoid the Ape bound
 I Wanna Avoid The Bad Apple
@@ -930,6 +941,7 @@ I wanna be Assaulted
 I wanna be back from CEE
 I wanna be balues
 I Wanna Be Beginner Friendly
+I wanna be Beheaded
 I wanna be betrayed almost
 I wanna be BlankGrey
 I wanna be Blue
@@ -974,6 +986,7 @@ I wanna be far from home
 i wanna be fearless
 I wanna be Fed up with path ;w;
 I wanna be fiction
+I wanna be flowers
 I wanna be fooled
 I wanna be for zeromegamanx
 I wanna be Friends
@@ -992,6 +1005,7 @@ I wanna be Haphazard 2
 I wanna be Haphazard 3
 i wanna be Happen
 I wanna be happey every day
+I Wanna Be Happy
 I wanna be heard
 I wanna be Honest
 I wanna be ice fan
@@ -1020,6 +1034,7 @@ I Wanna Be Kuplinov Play
 I wanna be Labyrinth
 I wanna be last mission2
 I wanna be Liberation
+I wanna be Like @‌everyone
 I Wanna Be Like Beautiful Starlight
 I wanna be like Brassen
 I wanna be like Brisulph
@@ -1045,6 +1060,7 @@ I Wanna Be Mario
 I wanna be Medvedev
 I wanna be Megaman
 I wanna be melancholic
+be mindful
 I wanna be Minimal
 i WANNA be mint
 I wanna be mirror labyrinth
@@ -1080,6 +1096,8 @@ I wanna be Ridiculous
 I wanna be Riot
 I wanna be rolling
 I wanna be seen
+I wanna be slipped
+I wanna be Smiloon
 I wanna be some character
 I WANNA BE SOMEONE
 I wanna be soupreme
@@ -1092,7 +1110,6 @@ I wanna Be Super Mouse
 I wanna be Sure in You
 I wanna be surrounded by the sweet candy!
 I Wanna be Tep
-I Wanna Be Terrified
 I wanna be tha I wanna 制作者
 I wanna be that guy thing!
 I wanna be the GBR
@@ -1148,6 +1165,8 @@ I wanna beat challenge
 I wanna beat Challenge 2
 I wanna beat challenge 2 Difficult mode
 I Wanna beat Funny
+Beat it
+I wanna beat lm spike
 I wanna beat mother love in a special way
 I wanna beat my fear
 I Wanna Beat Six F-Ledge Jumps
@@ -1181,6 +1200,7 @@ I wanna Beat the Crazy Map By Dot
 I wanna Beat the Cringe L-Needle
 I wanna beat the cringe needle
 I Wanna Beat the Cringe Needle 2
+I wanna beat the Cringe Needle 3
 I wanna beat the Death Jump
 I wanna beat the Death Jump 2
 I wanna beat the DesWination
@@ -1220,6 +1240,7 @@ I wanna beat the mushcat
 I wanna beat the niconico
 I wanna beat the Nikku Area
 I wanna beat the Nikku Area -Easy Mode-
+I Wanna Beat the Noah's Challenge 1
 I wanna beat the ONE DOT
 I wanna beat the One Screen Needle
 I wanna beat the orange spike
@@ -1248,6 +1269,8 @@ I wanna beat the Spikes final: Deca Corner
 I wanna beat the Sunflower Fairy
 I Wanna Beat the Super F Jump
 I wanna beat the Super Jump
+I wanna beat the td2
+I wanna beat the td3
 I wanna beat the tiger needles
 I wanna beat the tiger needles 2
 I wanna beat the Tightest Jump
@@ -1278,8 +1301,10 @@ I wanna Become the Vegetable
 I wanna Become the Vegetable 2
 I wanna Become the Vegetable 3
 I wanna be the BecTrap
+I wanna BEE
 I wanna bee hip
 I Wanna Bee Like TopWolf
+I wanna Beeat the Bumblebee Jump
 I Wanna Be The Beetle
 I wanna begin the Adventure!!
 I wanna begin the ころん
@@ -1321,11 +1346,14 @@ I Wanna Be The Best Mouse
 i wanna be the best oof
 I wanna best the 100 floors
 I wanna best the 50 floors
+I Wanna Best The Creator
 I wanna best the needle
 I wanna best the needle 2
 I wanna best the needle 3
 I wanna best the needle 4
 I wanna be the best trap
+Best Year
+I wanna Bestow the Great Hugs
 I wanna BET
 I Wanna BET 2
 I Wanna BET 3
@@ -1349,6 +1377,7 @@ BG Needle
 I wanna be the BGN
 I Wanna be the BHG (共同開発)
 I wanna be the BHO
+I wanna be the biceps brachii
 Biet
 i wanna big ao
 I Wanna Be The Big Black
@@ -1369,7 +1398,7 @@ I wanna bird the fenix
 I wanna be the Bird!
 I wanna be the Bird! easy
 Birdsong
-BirdSong
+I wanna be the bire
 I wanna birth the azumol
 I Wanna Birth The Rabbit
 I wanna be the Birthday Cake
@@ -1509,6 +1538,7 @@ Boshy Test Room
 Boshy the Game
 I Wanna Be the Boshy: Literature Edition
 I wanna be the Boss
+I wanna be the Boss Battle
 I wanna be the Boss Hunter
 Boss of Fuckerball
 I wanna be the Boss The Fangame
@@ -1521,9 +1551,9 @@ Bottomless Abyss
 I wanna bounce around in funny land
 I wanna bounce on a giant trampoline
 I wanna bounce on a giant trampoline 3
-I wanna bounce on a giant trampoline 5
 I wanna bounce on a giant trampoline 6 - THE FINAL BOUNCE
 I wanna bounce on a giant trampoline again
+Bouncy
 I wanna be the Bouquet with Z &amp; S
 I wanna be the BOW
 I wanna be the Bowl
@@ -1631,6 +1661,7 @@ I wanna break the rorigirl
 I wanna Break the Rumia
 I wanna break the RYS Factory
 I wanna break the School
+I wanna Break the Series Iodium
 I wanna break the series XP
 I Wanna Break The Series Z
 I wanna break the Series Z 2
@@ -1647,6 +1678,7 @@ I Wanna Break The Spell Demoα
 I Wanna Break The Spike Trial
 I wanna Break the Springing Block
 I wanna break the Steak
+I wanna break the sustav kolena
 I Wanna Break The Three Warp
 I Wanna Break The Title Card
 I wanna Break The Toshi's BirthDay
@@ -1657,10 +1689,12 @@ I wanna break the はかりん trap
 I wanna break Things into Pieces
 I wanna break through Ario Trials
 I wanna break through Dot controls
+I wanna break through Leehe Trap
 I wanna break through naud trials
 I wanna break through seven traps
 I wanna break through Seven trials
 I wanna break through the 27
+I Wanna Break Through The Cathedral Of Doom
 I wanna break through the Corridor of Death
 I wanna break through the gates of heaven
 I wanna break through the limit ☆彡
@@ -1706,7 +1740,6 @@ I wanna be the BTD
 I wanna be the BTR
 I wanna be the BTT
 I Wanna Be The Bubble Bobble
-BUBBLE RAVER
 I Wanna Bubblebath
 I wanna be the Bucho
 Budni
@@ -1726,6 +1759,7 @@ I wanna be the Bunny
 I wanna be the bunut
 I wanna burn the chicken
 I wanna Burn The Rope
+I Wanna Burning Body
 I wanna Burnmind
 I wanna be the Burst
 I wanna be the Burst(2015)
@@ -1771,6 +1805,7 @@ I wanna bye the bye 3倍界王拳ver
 I wanna bye the bye the bye bye
 I wanna bye the Entrance
 I Wanna Bye The Fake Doll
+I Wanna Bye The Side Job Master Entrance
 Bygones
 I wanna be the Byzantine
 I wanna be the C
@@ -1791,6 +1826,7 @@ I wanna call me it.
 I Wanna Call The Hound
 I wanna call to the Night
 I wanna call voice
+I Wanna Calm The Weather
 I wanna calm trap
 I wanna be the calmness
 I wanna be the Camellia Teahouse
@@ -1801,6 +1837,7 @@ I wanna cancel the production
 I wanna cancer cancer cancer
 I wanna cancer cancer cancer 2
 Cancerous Heart
+Caniac™ Combo 2 Cancelled Build
 I wanna be the Canned mikyan
 I wanna Caolila
 I wanna Caolila2
@@ -1950,7 +1987,7 @@ I wanna change the world for TDJ
 I wanna be the Chanker
 I wanna be the Chaos
 I wanna be the Chaos Gunners
-I wanna be the Chaos!
+Chaos Needle-Port
 I wanna be the Chaos&amp;difficult!
 Chaotic Byte
 I Wanna Chaoz Fantasy
@@ -1969,6 +2006,7 @@ I wanna chase the 3 thieves
 I Wanna Chase the Chance
 I wanna Chase the Cheese
 I Wanna Chase the Guy
+I Wanna Chasing The Love
 I wanna chat with HeYan
 I wanna chat with you
 ChatGPT Needle
@@ -2040,6 +2078,8 @@ I Wanna Christmas Buzz
 I wanna be the Christmas Cretin
 Christmas Deliveries
 Christmas Deliveries 2
+Christmas Deliveries 3: Deliverance
+I Wanna Be The Christmas Demo
 Christmas Girls
 Christmas L Needle
 I wanna be the Christmas Present
@@ -2078,6 +2118,7 @@ Classical VIP
 I Wanna Classico
 Classic_Occultcube_Package
 CleanMemX_for_Lite
+I wanna be the clear
 I wanna clear 10 rooms
 I wanna clear 25 floors
 I wanna clear 44
@@ -2161,6 +2202,7 @@ I Wanna Close The Danbi's Mouse
 I wanna close the tomodati
 I wanna close the World
 Close to the Edge
+I Wanna Be The Closure
 I wanna be the Clotho
 I Wanna Be The Cloud
 Cloud Madness
@@ -2176,6 +2218,7 @@ Clubster Is Calling
 I wanna be the CMK
 CN
 I wanna be the Co-op
+I wanna Cocaine
 I wanna be the Cockamamie
 I wanna be the Cocktail
 I Wanna Cocogoat
@@ -2299,6 +2342,7 @@ I Wanna Conduction
 CONFESS
 Confession
 I wanna be the Confidence
+Conforming Needle
 I wanna be the Confront
 I wanna be the Confrontation
 I wanna be the Confusion
@@ -2356,6 +2400,7 @@ I wanna Consider
 I wanna be the Consonance
 I wanna be the Conspicuous Crumble
 I wanna be the Constraction
+I Wanna Consume the Sludge
 i wanna consume you entirely
 I wanna contact with spikes
 I wanna contact with spikes (hard mode)
@@ -2457,6 +2502,7 @@ I wanna be the Creator
 I Wanna be the creator
 I wanna be the Creator 2: Bloody Knight
 I wanna be the Creators
+I Wanna Credits
 i wanna be the crematorio
 Crickets!
 I wanna be the Criminal
@@ -2540,6 +2586,7 @@ I Wanna D
 I wanna be the D
 I wanna D&amp;G
 I wanna be the D.
+I wanna be the D3M01 51AY3R ver 0.1(大作)
 D9m34ix
 I wanna be the D9P
 I wanna be the Daburyu
@@ -2584,12 +2631,14 @@ I wanna be the Danger 9
 I wanna be the Danger 9 その8
 I wanna be the Dangerous trap
 DangerZone
+I Wanna Be The Dangstination
 I wanna be the Daniwell
 I wanna be the Danny tanner
 I wanna be the Danny Tanner 2
 I wanna be the daphne
 I wanna be the Dapper Dan
 I wanna be the darb
+I wanna be the Darc Ruins
 I wanna be the DAREJAR
 I wanna be the DARK BLAZE
 I wanna be the Dark Blue
@@ -2726,6 +2775,7 @@ I Wanna Defeat The One Map
 I wanna defeat the Pixel
 I Wanna Defeat The Pixels
 I wanna defeat the R contents!
+I wanna defeat the R contents! 2
 I Wanna Defeat the Real Life Makers - ESA Side
 I Wanna Defeat The Red Crystal
 I Wanna Defeat The Red Needle World
@@ -2752,6 +2802,7 @@ I wanna defeat the UID
 I wanna defeat the Villains
 I Wanna Defeat The VK Makers
 I wanna defeat the Walljumps
+I wanna defeat the Winter King
 I wanna defeat the yellow tower
 I wanna defeat the 歯形
 I wanna defend for myself
@@ -2903,7 +2954,6 @@ I wanna die in an explosion
 I wanna Die to become a Ghost -2017-
 I wanna die to the Spike
 I wanna die with you
-Die, Mailman, Die!
 I wanna be the Dieary
 I wanna be the Dies Irae
 I wanna be the Diet
@@ -2915,6 +2965,7 @@ I wanna be the Different Way
 I wanna be the Difficult
 difficult spike game
 I wanna be the difficulty change
+I wanna difficurt
 I Wanna Digeridoo
 I wanna be the Dignity
 Dilapidation
@@ -2940,6 +2991,7 @@ I Wanna Disconnect
 Discord
 I wanna discord.gg/????????
 I wanna Discover 50 Shades of Crimson
+I Wanna Discover The Planet
 I wanna discover the remains
 I Wanna be the Disgrace
 I wanna be the disgust
@@ -2950,6 +3002,7 @@ I Wanna be the Disorder
 Disorder
 I wanna be the disparagement
 I wanna be the Disproportionate princess
+I wanna Dissociate
 I wanna be the Distant
 I wanna be the distant memory
 I wanna distinguish 669 and quon
@@ -2973,6 +3026,10 @@ divisive game
 I wanna be the DIZZY SISTEM
 I wanna be the DJ of girl
 I wanna be the DJMAX
+I wanna be the DJMAX - Remake
+I Wanna DLK
+I wanna be the DLN
+I wanna be the DLしとけ
 I wanna be the DLすんな
 I wanna be the DM
 I wanna be the DMT
@@ -3021,7 +3078,6 @@ I Wanna Be The Doetielast
 I wanna be the Dog
 I wanna be the Dog Agony
 I wanna be the Dog Mario
-I wanna be the Doieo
 Doki Doki Fangame Club
 I wanna Dominant
 I wanna dominate a blue tower
@@ -3068,6 +3124,7 @@ I wanna doubi 25 trap
 I wanna be the Double Baka
 I Wanna Be The Double Diamond
 I Wanna Be The Double Diamond Jump
+I wanna be the Double Double L Absolute
 I wanna be the Double Dragon
 I Wanna Double Invert
 I wanna be the Double invert
@@ -3119,6 +3176,7 @@ I wanna be the dreamyworld
 I Wanna be the Dreigonix
 I wanna be the Dried Raisin
 I wanna be the Drill
+I Wanna Drill To Kill
 I wanna be the Drink
 I wanna drink chicken soup
 I wanna drink chocolate milk
@@ -3275,7 +3333,6 @@ I wanna eat the soradango
 I wanna Eat The Steak
 I wanna eat the Stuffed Animal
 I wanna eat the tasty cake
-I wanna eat the Tsukune
 I Wanna Eat the Winter King
 I wanna eat the worm
 I wanna eat the ZBK
@@ -3291,6 +3348,7 @@ I wanna be the Eccentric easy version
 I wanna ECH like Jontron
 I wanna be the Echidna
 I wanna be the Echo
+I Wanna Echo
 EchoVision
 I wanna be the Echthros
 I wanna be the Echthros 2
@@ -3344,7 +3402,7 @@ I wanna be the electronic brain 弱
 I wanna be the Electronic+
 I wanna be the elegid kid
 I wanna eliminate a virus
-I wanna be the elimination
+I wanna eliminate the speed limit
 I wanna Elimination
 I wanna Elisha
 I wanna Elixir
@@ -3429,7 +3487,6 @@ I wanna be the engine beast edition
 I wanna be the Engine bone edition
 I wanna be the Engine ErunatyanEdition
 I wanna be the Engine eto edition
-I wanna be the Engine fapost edition
 I wanna be the Engine for Game Maker Studio
 I wanna be the engine fork edition
 I Wanna Be The Engine GamerH2
@@ -3443,7 +3500,6 @@ I wanna be the Engine Japan2
 I wanna be the engine kaeru edition
 I wanna be the Engine Kilgour22 Edition
 I wanna be the engine konkan edition
-I Wanna Be the Engine KS Edition
 I wanna be the Engine Lemon Edition
 I Wanna Be The Engine Maras Edition
 I wanna be the Engine marumoru edition
@@ -3465,6 +3521,7 @@ I wanna be the Engine Shinobu Edition
 I wanna be the engine snow!
 I wanna be the Engine SUB Edition
 I wanna be the Engine trial
+I Wanna Be The Engine Tukiyuu Edition
 I wanna be the Engine V2
 I wanna be the Engine Yosniper Edition
 I wanna be the Engine yuuutu edition
@@ -3472,7 +3529,6 @@ i wanna be the engine yuuutu edition
 I wanna be the Engine Zly Edition
 I wanna be the Engine ねころんEdition
 I wanna be the Engine!
-I wanna be the Engine: GDevelop Edition
 I Wanna Be The Engine: viri edition
 I wanna enhance CN2 because Gemi is too NB
 I wanna be the Enhansu1
@@ -3533,6 +3589,7 @@ I wanna enjoy the trap
 I wanna enjoy the Trip
 i wanna enjoy the winter
 I wanna enjoy the world
+I wanna enjoy this trap game
 I wanna be the enjoy travel
 I wanna enjoy winter vacation
 I wanna be the enpitu!
@@ -3581,8 +3638,6 @@ I wanna escape from team fortress
 I wanna escape from the Cat's castle
 I wanna escape from the Needle Land
 i wanna escape from the traps
-I wanna escape from the Underworld
-I WANNA ESCAPE FROM THE UNKNOWN DIMENSION
 i wanna escape greeen cave (初心者用)
 I Wanna Escape Heavenly Host
 I Wanna Escape Into My Mind
@@ -3604,6 +3659,7 @@ I wanna escape the Darkness
 I Wanna Escape The Darkness World
 I wanna escape the E World
 I Wanna Escape The Experiment
+I wanna escape the factory
 I wanna escape the fantasy world
 I Wanna Escape The Foundry
 I Wanna Escape The Fucking Needle
@@ -3682,6 +3738,7 @@ I wanna be the Evil Game
 Evoltex
 I wanna be the Evolution
 I wanna be the evolution
+I wanna Evolve my Eevee to Sylveon (Secret Santa 2024)
 I wanna be the EX
 I Wanna be the Excalibur
 I wanna be the Excalibur Lamda
@@ -3702,6 +3759,7 @@ I wanna Exit from Here
 I wanna exit the Cave
 I wanna Exit the Orion
 I wanna exit the Steak
+I wanna exit this hexamethylene chloride
 I wanna be the Experience
 I wanna BE the Experience
 I Wanna Experience The Butterfly Effect
@@ -3834,7 +3892,6 @@ I wanna falou
 I wanna be the Falst
 fan game
 I wanna be the Fancy
-I wanna Fangame Collecion
 I wanna Fangame Collection
 Fangame Guesser
 I wanna be the Fangame hell zone
@@ -3846,6 +3903,7 @@ I wanna be the Fangame!
 I wanna be the Fangame! Easter Edition
 I wanna be the Fangame! Expert Remix
 Fangame: UNLIMITED
+Fangaming Hell
 I wanna be the Fantasy
 I wanna fapple
 I wanna faq123
@@ -3904,6 +3962,7 @@ Feeling Tired
 Feishiko Needle
 I wanna be the Feng
 i wanna be the Ferocity
+I Wanna Be The Fery
 I wanna Festival
 I Wanna Be The FEX
 I wanna be the FF
@@ -3914,6 +3973,7 @@ I Wanna FfFfFf
 I wanna be the FFG
 FGGGGGGGGGGF
 I wanna FGN
+fgStat
 Fha Needle 0
 I wanna fib
 I wanna be the FID
@@ -3944,6 +4004,7 @@ I wanna Be The Final End
 I wanna be the Final Guy
 I wanna finally fair
 I wanna find a better reality
+I Wanna Find A Costume
 I Wanna Find a Cure
 I wanna find a cute cat girl
 I Wanna Find A Good Music
@@ -3951,6 +4012,7 @@ I wanna find a Needle in a Haystack
 I wanna find a Needle in a Haystack 2
 I wanna find a Needle In A Haystack Hard Version
 i wanna find a power strip
+I Wanna Find a Suitable Christmas Tree to Receive my Christmas Presents
 I Wanna Find A Test Player
 I wanna find an Octagon
 I wanna find and kill Jack
@@ -4094,6 +4156,7 @@ I wanna flush the toilet
 I wanna flutter like a Swallowtail
 I Wanna Fly
 I Wanna Fly Around
+I Wanna Fly Around In The Night
 I wanna fly Far Bounce
 I wanna fly in the sky
 I wanna fly in the water
@@ -4116,6 +4179,7 @@ I Wanna Flying Disc
 I wanna be the flyingplatform
 I wanna be the Flyingspike
 I wanna be the FMKPODV@
+I wanna be the Foast
 I wanna be the Foast easy
 Focal
 I Wanna Focus
@@ -4198,6 +4262,7 @@ I wanna be the Friendly Needle
 I wanna be the Frog
 I wanna be the Frog hatβ
 I wanna frolic and frisk
+I wanna frolic in stella's garden
 I wanna from rudiments to give up
 I wanna be the Frontier
 I wanna frown on
@@ -4236,8 +4301,9 @@ I wanna funny minions
 I wanna be the Furimuki
 I wanna be the Fusion
 I wanna be the Fusion 2.5 Engine Patrickgh3 Edition
-Fusion Engine
 Future Days
+I wanna be the Future Dominators
+I wanna Future Funk!
 I wanna be the Fuza Keter
 I wanna be the Fv
 I wanna be the Fx
@@ -4481,7 +4547,6 @@ I wanna get the time
 I wanna get the Tough soul
 I wanna get the Treasure
 I wanna Get the Treasure
-I wanna get the White Tears
 I wanna get the white tears
 I Wanna Get The XP
 I wanna get the Yellow Star
@@ -4528,6 +4593,7 @@ I wanna Giripossible
 I wanna be the Girl
 Girl In The Blanket
 I wanna git gud spike
+I Wanna Give A Gift To An Angry Player
 I wanna give a little present to Xia
 I wanna give a little present to Xia 2
 I wanna give a Needle for Christmas! -DF Release-
@@ -4542,14 +4608,19 @@ I wanna give the cat some acid
 I wanna give the little presents
 i wanna give this game a 10/10 rating on delicious-fruit.com
 I Wanna Give Trinkets To Friends And Family
+I Wanna Give Up!
 I wanna give you an Easy Game
 I wanna give you an Easy Game 2
 I wanna give you herpes
 I wanna be the gives the blessing
 I wanna be the Glacia
+I Wanna Glaciate
+I wanna be the Glitch
+I wanna be the glitcher
 Glob
 I wanna be the Gloomy needle
 I wanna be the Glorious Fragment
+GLORP
 I Wanna Be The Glove
 I wanna be the GM
 I wanna be the GM Tutorial
@@ -4593,6 +4664,7 @@ I wanna go beyond spikes
 I Wanna Go Camping
 I wanna go die
 I Wanna Go Down In History
+I wanna go down to down to down to
 I wanna go easy world
 I wanna go End of the World
 I wanna go for a walk
@@ -4628,6 +4700,7 @@ I wanna go the 1pixel Kid
 I wanna go the 50 Needles
 I wanna go the 7 colors
 I wanna go the 7 colors 2
+I Wanna Go The Another World (Demo)
 I wanna go the Attikotti
 I wanna go the BlockKid
 I wanna go the brothel
@@ -4702,7 +4775,6 @@ I wanna go to 1Floor
 I wanna go to 30F
 I Wanna Go To a Forest at Night
 I wanna Go to Bed (仮)
-I wanna go to convenience
 I wanna go to dusk sky
 I wanna go to El Sonidito
 I wanna go to Extreme Depths
@@ -4714,9 +4786,11 @@ I wanna go to Hell
 I wanna go to Moon
 I wanna go to Moon with Leehe
 I wanna go to My way!
+I wanna go to nahui
 I wanna go to night sky
 I wanna go to NI☆JI☆GE☆N
 I wanna go to origin
+I wanna go to Outer Space
 I Wanna Go To Secret Needle
 I wanna go to Sky
 I wanna go to Svetofor
@@ -4741,10 +4815,12 @@ I wanna go to the store to buy milk REMASTERED!
 I wanna go to the trip
 I wanna go to the Two dimensions
 I wanna go to the Youmu party
+I wanna go too far
 I wanna go Toram
 I wanna go up
 I wanna go up and down
 I wanna Go up to the Sky
+I Wanna Go With The Flow
 I wanna go without a Loss
 I wanna go without a Loss difficult mode
 i wanna go your heart
@@ -4800,6 +4876,7 @@ I wanna be the Goshi Barrage
 I wanna be the Goshi Barrage II
 I wanna be the govern to groaning
 I wanna be the GR
+I wanna Grab Estrella the Starry Squishmallow
 I wanna Gradientize
 I wanna graduate
 I Wanna Graduate From Beginners
@@ -4847,6 +4924,7 @@ I wanna be the Grey Zone
 grid
 I wanna Groove Battle
 I wanna be the Groovy
+Grotto Elude
 I wanna grow from Beginners
 I wanna grow Game
 I wanna Grow Up
@@ -4858,6 +4936,7 @@ I wanna be the GSL
 I wanna be the GSM
 I wanna GTH 2
 I wanna be the GTR
+I wanna be the gu,u
 I wanna be the guass tiaoci
 I wanna be the Guerrerum: The Challenge
 I Wanna Be The Guerrerum: The Ultimate
@@ -4889,6 +4968,7 @@ I wanna be the Guy Needle
 I Wanna Be The Guy Remastered
 I wanna be the Guy Revenge of the Kid
 I wanna Guy Rock
+I Wanna be the Guy the Behind Story
 I Wanna be the guy The Movie: The Game! 2nd MEAT Edition Rebirth //DEMO\\
 I wanna be the Guy the New Kid
 Guy Tower Defense
@@ -4898,7 +4978,6 @@ Guy Wanna The Be I Fangame
 I wanna be the guy | Platformer
 I wanna be the guy! Flash Version
 I wanna be the Guy2
-I Wanna Be The Guy: The Demake
 I Wanna Be The Guy: The Mugen Based Fan Game
 I Wanna Be The Guy: The Remake
 I wanna be the Guy:Gaiden(本家2)
@@ -4998,6 +5077,7 @@ Happy Birthday to Misu
 I Wanna Happy Birthday to Monikara
 Happy Birthday to Myself
 I wanna happy birthday to Oaaaaak
+Happy birthday to Rushen
 Happy Birthday to Saira
 Happy Birthday to SilentNight
 Happy Birthday to Xue Xue
@@ -5012,6 +5092,7 @@ Happy Birthday TopWolf!
 I wanna be the happy birthday Yuu
 I wanna be the happy birthday YY
 Happy Birthday!!
+I wanna be the happy cat
 Happy Children's Needle
 I wanna happy congratulations to ばん汰
 I wanna Happy Congratulations win
@@ -5073,6 +5154,7 @@ I wanna hate the MovingPlatform
 I Wanna Hatenaaaaaaaaaa
 I wanna be the HateTrap
 I wanna be the Hato
+I wanna hatsuhinode barrage
 I wanna be the haunt
 I wanna have a accident
 I wanna have a birthday wish
@@ -5135,6 +5217,7 @@ I wanna be the HBstination
 I wanna be the hch bunches
 he
 He's looking you
+i wanna be the head exercises
 I wAnNa Be ThE hEaDcRuShER
 I wanna be the Heady
 I Wanna Heal The No Sense Of Direction
@@ -5192,6 +5275,7 @@ I wanna be the heretic
 I wanna be the Hermes
 I wanna be the Hero
 I Wanna Be The Hero
+I wanna be the hero
 I wanna be the Hero (judal1)
 I wanna be the Hero - Again
 I wanna be the Herp Derp
@@ -5240,12 +5324,15 @@ I wanna HM
 I wanna be the HMA
 I wanna be the HND
 I wanna be the HNG
+I wanna be the HNK
+I wanna be the HNO
 I wanna hold a memorial service for the festival
 I Wanna Hold and Relieve
 I Wanna Hold and Relieve +
 Hold on!
 I wanna hold the Needle
 I wanna hold the touhou party!
+I Wanna Hold Your Hand
 I wanna be the Hole
 I wanna hole needle
 I wanna be the HOLIC
@@ -5255,6 +5342,7 @@ Holocene Juveniliax
 I wanna be the Hololive(仮名)
 I Wanna Holy Night Snow
 I wanna be the home
+I wanna be the homotopy
 Homunculus
 I wanna be the Honer
 I wanna honey spike
@@ -5263,6 +5351,8 @@ I wanna be the hop step jumping~
 Hope
 I Wanna Hope the
 I wanna hope the 2018-G
+i wanna hope the 2025
+I wanna hope the aseria
 I wanna Hope the easyType
 I Wanna Hope the End Of
 I wanna hope the final
@@ -5278,6 +5368,7 @@ I wanna Be The Host!!
 I Wanna Hostile Mechanism
 I wanna be the Hosungryn
 I wanna be the Houzuki
+How I See World In Desaturated Colors
 I Wanna How Many Bottles of Coke Zero Can Badlands Chug in 3 Minutes? Watch &amp; See!
 How the Gimmick Stole Christmas
 How To Be The Guy
@@ -5290,10 +5381,12 @@ I wanna be the HSP
 I wanna BE the HST
 I wanna be the HTB
 I wanna be the html5
+i wanna https://discord.gg/BsPCQ...
 I wanna Hu
 hualmoimi gaebgera
 hub game
 I wanna Hue
+I wanna hug kelvar demo
 I wanna be the Huge
 I wanna be the HUH
 I Wanna Human Maniac
@@ -5313,6 +5406,7 @@ I wanna be the Hurricane
 I Wanna Be The Hurricane
 I Wanna Hurry
 I wanna be the hurry up for 35 second
+I wanna hurry up for the holiday
 I wanna hurt the 100 skys
 I wanna hurt the Flowers
 I wanna hurt the sky spikes
@@ -5385,7 +5479,7 @@ I Don't Wanna Be Game Maker
 I don't wanna be pu fixed ver.
 I don't wanna be the Father
 I Don't Wanna Be The Gay
-I Don't Wanna Be The Gay!
+I Don't Wanna Be The Gay - The Tower
 I don't wanna be the Kira
 I don't wanna be the pointless everyman
 I don't wanna be the pu full ver.1.0
@@ -5427,6 +5521,7 @@ I don't want to be Guilty
 I Don't Want To Watch The Eckhart Tolle Video
 I Don*t Wanna Get the 10RTされたら1週間
 I Dont Wanna Be A Weeb
+I Dont Wanna Be Another Guy
 i dont wanna be special
 i dont wanna be the kid
 i dont wanna give this game the avoidance tag on delicious-fruit.com
@@ -5455,6 +5550,7 @@ I love ranka!!
 I love Time Travel!
 i made this needle game in one evening
 I need to get an A or my parents will disown me
+I never thought I'd lose myself
 I nyama be the きーちゃま
 I Re kid the Birthday
 i Really Dont Know What Is This
@@ -5473,9 +5569,10 @@ I wana avoid all traps!
 i wana be guy engine
 i wana be the shked
 I wana be za 柱軍団 ando ルヒィ
-i wana bounc on a giant trampolin 41!11!!
+I wana be za 柱軍団 ando 怪魔 2
 I wana de the room Trap
 I Wana Kill The Kappa Update
+I wana last breth sans phase3
 I wanan be the bunch guy 2
 I Wanan Be The Image
 I Wann Beat The BS 2
@@ -5616,6 +5713,7 @@ I wanna be the ignorant
 I wanna be the ignorant easy mode
 II wwaannnnaa SShhaakkee
 I wanna be the IIS
+I wanna be the Illusionary
 im path
 IM SB
 I wanna be the Image Needle
@@ -5627,8 +5725,10 @@ Imitation
 I Wanna Be the Immaculate Scumble
 I wanna immanentize the Eschaton
 I wanna be the Immature Life
+Immature Lime
 I wanna be the Immortal
 I wanna be the immortal butterfly
+I Wanna Immortal Smoke On The Moon
 i wanna be the immortaler
 i wanna imoutotachi
 I wanna be the IMP
@@ -5669,6 +5769,7 @@ I wanna be the Infinity
 I wanna be the Infinity Darkness Evarsion
 I wanna be the Infinity dungeon
 I wanna be the Infinity Trap
+Infinity Trials
 I wanna be the Infinity2 -Come In The Lost World-
 I wanna be the Infint
 INFLUCCA 2
@@ -5741,7 +5842,7 @@ I wanna be the IQS
 iramate01-I Wanna D.S.T
 Irkara Needle
 Irkara Needle (Easy ver)
-I wanna be the Irresponsibility
+Irregular Needle Campaign 0724
 Is sounds like...
 Is the junggeun an i wanna?
 Is The Order An I wanna ?
@@ -5752,6 +5853,8 @@ I wanna be the Islenauts
 I wanna Isometric
 Isopropylacrylamide
 I wanna ISSHOU KENMEI
+It Starts With
+It's behind you
 It's Not Needle!
 It's so hot! Help! I think the house price can be saved by heating the cover
 its too bad nothing rhymes with gum
@@ -5764,6 +5867,7 @@ i wanna be the iw new guy of black &amp; white 2
 IW97
 I wanna be the Iwanero
 I wanna be the Iwanero 2
+i wanna be the iwanika
 Iwanna a Girl Of The Sky
 Iwanna be in May
 iwanna be the hard
@@ -5792,12 +5896,12 @@ Iwanna W
 IWanna ^o^
 Iwanna 贺言的一百种死法
 iwannakill the rushen2
+iwannasnowedthetime
 IwannaTC
 IWANNAZONE
 IWBT Kosyokusei IDOL Syoukogun
 IWBT ZXC 0.2
 IWBTB KITTY
-IWBTG - Pokieman land
 IWBTG - prologue
 IWBTG-C-Engine
 iwbtg.exe
@@ -5810,7 +5914,7 @@ I wanna be the IWC2
 IWCTB
 I wanna be the IWD spike
 IWJTI
-IWM Dotkid engine
+iwm to jt
 IWMA
 IWPTSGOfVGWJTANALTNICWDC
 IX needle
@@ -5868,6 +5972,7 @@ I Wanna Be the JK
 I wanna be the JK2
 I wanna be the JK3
 I wanna be the JKP
+I wanna be the JNT
 I wanna be the Job Master
 Jogfsobm cdioht
 Johnathan Game
@@ -5936,7 +6041,7 @@ I wanna jump under a block
 I wanna jump with panda
 i wanna jump with wind
 I wanna be the Jumper
-I wanna Jumping
+I wanna be the Jumper 2
 I wanna Jumping Heart
 I Wanna Jumping Spikes
 I Wanna Jumping Spikes 2
@@ -5963,6 +6068,7 @@ I wanna just make a short needle but idk what to name
 I Wanna be The Just Party
 I wanna just Relax
 I wanna be the Just right!
+Just see the Splatter Fate
 I wanna be the Just Trap
 I wanna be the Just Trap 2
 I wanna be the Just Trap 2 REMAKE
@@ -6052,7 +6158,6 @@ I wanna keep on dancing 2
 I wanna Keep Silent
 I Wanna Keep The Bloodlines
 I wanna Keep the Dot Space
-I wanna Keep the Half Space
 I Wanna Keep the Rhythm
 I wanna keep the secret
 I wanna Keep the TAS Space
@@ -6089,6 +6194,7 @@ Kid Tales - The Legend of Brom
 I wanna be the Kid vs Cheeyz
 Kid Wants Needle
 I wanna be the Kid who can endure it
+Kid with a Gun
 Kid World
 KID's Master Adventure
 KID's Master Adventure(Usual Mode)
@@ -6099,12 +6205,10 @@ I wanna kill 10000 pomu
 Kill All Bosses
 I Wanna Kill Aura's Sandwich
 I wanna kill Aura's Sandwich 2
-I wanna kill bowser
 I wanna KILL BOWSER
 I wanna KILL BOWSER CHAPTER 1 &amp; 2
 I wanna be the Kill Game
 kill god
-kill god v2 (EZ)
 I wanna kill JC
 I wanna kill King Blue
 I wanna kill My Parents Due To My Teenage Angst
@@ -6122,6 +6226,7 @@ I wanna kill tha Sonic.exe Remake
 I wanna kill the 2doku
 I wanna kill the 2sweepor
 I wanna kill the 3sweepor
+I WANNA KILL THE 404
 I wanna kill the 46
 I Wanna Kill The A4
 I Wanna Kill the AI Family
@@ -6156,8 +6261,9 @@ I wanna kill the catboy
 I wanna kill the Celty
 I Wanna KILL The CEO Of RACISM!!
 I Wanna Kill The Chaos Colonel
-I wanna kill the cherries
+I wanna kill the Chemichemi
 I wanna kill the cherry king
+i wanna kill the chery
 I wanna kill the choco
 I wanna kill the choco -1
 I wanna kill the choco 2
@@ -6197,7 +6303,7 @@ I wanna kill the Death tower
 I wanna kill the devil
 I wanna kill the DW needle
 I wanna kill the Elmo
-I Wanna Kill The Engine
+I wanna Kill The Endurance
 I Wanna Kill The Ex-Friends!
 I wanna kill the ex15
 I wanna Kill The Fawful
@@ -6222,6 +6328,7 @@ I Wanna Kill The Hardest Fangame
 I wanna kill the hareta
 I wanna Kill The HB ver0.1
 I wanna Kill The HB2
+I wanna Kill The HB3
 I wanna kill the hibachi
 I wanna kill the hikakin
 I wanna kill the Homui
@@ -6251,7 +6358,6 @@ I Wanna Kill The Kamilia 2: Legacy Extra
 I Wanna Kill The Kamilia 3
 I Wanna Kill The Kamilia 3 EZ
 I Wanna Kill The Kamilia 3+
-I Wanna Kill The Kamilia 3+ v0.07 (DEMO VERSION 2)
 I Wanna Kill The Kamilia 33⅓
 I wanna kill the Kamilia 3D
 I Wanna Kill The Kamilia Enhanced
@@ -6292,6 +6398,7 @@ I wanna kill the Mauri
 I wanna kill the Maxson Li Jew
 I Wanna Kill The Meat Boy
 I wanna Kill the Medley
+I Wanna Kill The MeetTheCreator
 I wanna kill the Memes
 I Wanna Kill The Michael
 I Wanna Kill The Midden-Another
@@ -6328,6 +6435,7 @@ I wanna kill the NyamiNyaru 2
 I wanna kill the ocean pigeon
 I WANNA KILL THE OCHIPI
 I WANNA KILL THE OCHIPI 2
+I wanna kill the Onyx
 I wanna Kill The Original Stage
 I wanna kill the PDMidi
 I Wanna Kill The Pinapplegod1
@@ -6390,6 +6498,7 @@ I Wanna Kill The Triaple Piano
 I wanna kill the troll king
 I wanna kill the troll of games
 I Wanna Kill The Trollilia
+I wanna Kill The Twitter
 I wanna kill the umbrella
 I wanna Kill The Umin
 I wanna be the kill the Undertale
@@ -6453,6 +6562,7 @@ I wanna be the knight in shining armor
 I wanna be the Knight of Justice
 I wanna be the Knit
 I wanna be the KNK
+I wanna be the KNM
 I wanna knock out the Death Block
 I wanna know about You more
 I wanna know father go where
@@ -6511,6 +6621,8 @@ I wanna be the KSD
 I wanna be the KSG
 I wanna be the KSP
 I wanna be the KSS
+I wanna be the KTS
+I wanna be the KTT
 I wanna be the Kukulu
 I wanna be the Kumaaaaa
 I wanna be the Kumaaaaaaaaaa
@@ -6587,6 +6699,7 @@ I wanna be the LeafArrow
 I wanna be the LeafArrow2
 I wanna leap 6 screen
 leap forward
+I Wanna Leap Into The Collab
 leap over
 i wanna learn
 I Wanna Learn iOS Programming
@@ -6657,6 +6770,7 @@ I wanna lick the やよいたん！！
 I wanna lick your banana pudding
 I wanna be the Lie
 I wanna Lie
+I wanna lie down and rest
 I wanna Lie the Reality
 I wanna be the Lift
 I wanna Lift Off
@@ -6695,6 +6809,7 @@ I Wanna be the Liquid
 I wanna be the Liquid Ex
 Lisa: the Lofty
 I Wanna Lisdexamfetamine
+I wanna listen carefully
 I wanna listen the Beat
 I wanna Listen The Beat(12)
 I wanna listen the Illusion Rendition
@@ -6752,6 +6867,7 @@ I wanna Be The LKG
 I wanna be the LLLLLL
 I wanna LM
 LMAO!! APRIL DDONG DAy!!!!
+Lmfao Needle
 I wanna LN
 I wanna Lo-Fi-M
 Loather
@@ -6779,7 +6895,6 @@ I wanna be the Long
 I wanna be the long rain
 I wanna Long screen conversion
 I wanna be the long trip
-I Wanna Long Way To Go
 I wanna be the Long2
 I Wanna Look At The Firetruck
 Look Before You Leap
@@ -6803,10 +6918,12 @@ I wanna LoreSpikE
 I Wanna Lose Brain Cells
 I wanna lose the Memory
 I wanna lose the princess
+I Wanna Lose To The Tomodati
 I wanna be the Lost friend
 Lost Game
 I Wanna Be The Lost Levels
 I wanna Lost One
+Lost Story
 I wanna lost the father
 I wanna be the lost things
 I wanna be the lou needle
@@ -6868,6 +6985,7 @@ I wanna be the Lovegood 2
 Loveless
 I wanna be the Lovely
 I wanna be the lovely child
+Lovely Cittura
 I wanna be the lovely ⑨
 I Wanna Be The Lover
 Lover in the Dark
@@ -6892,6 +7010,7 @@ I wanna LTO 5
 I wanna be the LTSD
 I wanna Lubu
 I Wanna Luc the Ster
+Lucid Abyss
 I wanna be the Lucien Needle
 I wanna be the Lucifer
 I wanna be the Lucky
@@ -6922,6 +7041,7 @@ luna pixie
 Lunar Abyss
 I wanna be the Lunar Star
 I wanna be the Lunatic
+I Wanna Lunatic Miku
 I wanna be the Lunatic Princess
 Lunatic Sky
 I wanna lunatic the L-Needle
@@ -6944,7 +7064,7 @@ I Wanna Lycoris
 I Wanna Lycoris II
 I Wanna Lycoris III
 i wanna lypophrenia
-i wanna be the LZJ无声版
+Lzc, Happy Birthday!
 I wanna be the Lくん
 I wanna be the Lくんagain
 I wanna M
@@ -6963,6 +7083,7 @@ I wanna be the M,E 2
 I wanna be the M,E 3
 I wanna be the M,s NEEDLE CHALLENGE
 I wanna be the M-God
+I wanna be the m@@@STER
 I wanna be the M@STER
 Mabarongbo
 i wanna mabudati
@@ -7018,6 +7139,7 @@ I Wanna Make A Game In Half An Hour
 I wanna make a game with Misa
 I wanna make a good trap game
 I wanna make a good trap game 2
+I wanna make a good trap game 3
 I wanna make a ma-bo-do-fu
 I wanna make a Needle Game
 I wanna make a perfect HARIGE
@@ -7025,6 +7147,8 @@ I wanna make a real game
 I wanna make a Rookie
 I wanna make a Sandwich
 i wanna make a short game
+I Wanna Make A Song Request On Gaborro FM
+i wanna make a stap game
 i wanna make a trap game
 I wanna make a Trip
 I wanna make a weird avoidance
@@ -7036,6 +7160,8 @@ I wanna make Better Life Choices
 I wanna make boboniu noodle
 I wanna be the Make Hardest Fangame
 I Wanna Make It Breaking Out
+Make it Lime
+I Wanna Make It Snow
 I Wanna Make Magic
 I Wanna Make My First Avoidance
 I wanna make my first durable
@@ -7057,13 +7183,13 @@ I Wanna Make Something
 I wanna make something boring
 I Wanna Make Something with GameMaker
 Make something with GMS2
-I wanna make something with the oldest engine
 I wanna make Stalin Proud
 I wanna make the 'aiwana'
 I wanna make the 3 hours
 I wanna make the Apocalypse
 I wanna make the Arusu
 I Wanna Make The Avoidance
+I Wanna Make The Backup
 I wanna make the Barrage
 I wanna make the Barrage Kappa
 I wanna make the Chaos!
@@ -7129,6 +7255,7 @@ I wanna be the MAo Trap
 I Wanna Be The Mapi
 I wanna be the Maplestory
 i wanna be the MAR
+I Wanna Maracuyá
 I wanna Marc trap
 I wanna Marc trap Hard
 I wanna Marcescence
@@ -7145,6 +7272,7 @@ I wanna Mario. Tyasu World
 I wanna be the Mario: The Prequel
 I wanna be the Marionette
 I wanna be the Marisasa-!
+i wanna be the marry simurater.exe
 I Wanna Marry The Marina
 I wanna be the Mars
 I wanna be the Marvelous
@@ -7323,6 +7451,7 @@ I wanna be the Michael Jackson
 Michael Wanted To Be The Guy
 I wanna be the microheaven
 I wanna be the Micromedley
+I Wanna Micromix
 I wanna Mid-Autumn
 I wanna be the Middle
 I wanna be the Midi
@@ -7369,8 +7498,8 @@ Mio Pokes The Carmine Needle
 i wanna be the mioda
 I wanna be the Miracle
 I Wanna Be the Miracle of Dawn
-I wanna Mirage
 I wanna Mirage v1.1
+MIRAI WA BOKURA NO TE NO NAKA
 I wanna be the Mirrorball Airride
 I wanna Misadventure
 I wanna be the misawa
@@ -7385,7 +7514,6 @@ I wanna be the mistake
 I WANNA MISTERIOUS HONTER
 i wanna be the mistral
 I Wanna Be The MIVG
-I Wanna Be The MIWG
 I Wanna Mix the Colors
 I wanna be the MIX!
 I wanna be the MJJ
@@ -7482,6 +7610,7 @@ I wanna be the MOY
 I wanna be the MOYASHI
 moyu needle Dark
 moyu's hentai iwanna
+I wanna be the MP
 I wanna be the MP 2nd
 I wanna be the MPS
 I wanna be the MR
@@ -7536,6 +7665,7 @@ I wanna be the My heart goes on
 My Love Letter To Fangames Volume 1: Venus
 I wanna My Needle
 I Wanna My Needle
+I wanna be the my second game
 I wanna be the My traps
 I wanna Myosotis
 I Wanna Be The Myosotis
@@ -7582,6 +7712,7 @@ I wanna be the NAS
 I wanna nashi
 I wanna be the Nasimoto
 I wanna be the Nasimoto2
+I Wanna Be The Nasrano
 Nasu's Endurance
 I wanna be the NASUBI
 I wanna NATTO needle
@@ -7630,6 +7761,7 @@ Needle for 113 3
 Needle for 113 4
 I wanna needle game @twitter
 Needle Game Dependence
+Needle Game For Christmas
 I wanna be the needle game master
 I wanna needle game2 @twitter
 I wanna needle game3 @twitter
@@ -7677,13 +7809,18 @@ I wanna be the needle test!!
 I wanna needle the needle
 I wanna be the Needle Trap
 I Wanna be the Needle Whisperer
+needle!!!!!!!
 I Wanna Be The Needlecaster
 I wanna NeedleGamePlayer
 Needlemaniac
 Needlemas
 Needlemas 2
 Needlemas 3
+Needle|IWer's New Year
+Needle|New Year's Eve
+Needle|Winter Vacation
 Needle１
+Needove
 NEEDRe
 neeko
 I wanna be the Neet
@@ -7720,12 +7857,13 @@ I wanna be the New
 New Crazy I Wanna Kill The Kamilia™ 1.5 Remastered Gold Deluxe Warped DLC 2 Enhanced &amp; Knuckles Featuring Dante From Devil May Cry K Ver+ (New Funky Mode Included)
 I wanna new fafa
 I wanna be the New game
-New I wanna be the Hard
+I wanna be the new hands
 I wanna be the New Jump
 New Mini Kongkongi's Adventure
 New Mini Kongkongi's Adventure(2019 ver)
 I wanna be the new player
 New I Wanna Be The Weegee
+New Year 2025
 New Year's needle game
 New Yuuutu Engine
 New I wanna ボスラッシュ
@@ -7776,10 +7914,13 @@ I wanna NMS - Happy Birthday Sunbla!
 I wanna be the NN
 I wanna be the NN2
 I wanna be the NNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNnnice
 I wanna be the NNP
 I wanna NNS
 I wanna be the NNV
 No
+I wanna no (don't)
+i wanna no black
 No Boss, No Avoidance, Only Platforming
 I wanna be the No cancel
 I wanna be the No Effort Game
@@ -7813,6 +7954,8 @@ I Wanna Nomal Game
 I wanna be the Nomal world
 I wanna be the non stop!!
 I wanna be the Non Turtle Pickle
+Non-Conforming Avoiance 3
+Non-Conforming Avoidance
 I Wanna Be The Non-Conforming Needle
 I Wanna Be The Non-Conformist
 I wanna be the Noname
@@ -7853,7 +7996,6 @@ Not another avoidance game
 Not Another Easy Game
 Not Another Fake game
 Not Another Falling Game
-Not Another GDevelop Engine
 Not Another Generic Needle v 0.0.1
 Not Another Hentai Game
 Not Another Impossible Game
@@ -7872,6 +8014,7 @@ Not Another Tower Game
 Not Another VVVVVV Game
 Not Another XP Engine
 I wanna not be dumb like the person who created this game
+Not NANG For A Day
 I wanna not recommended play
 I wanna not recommended play EZedition
 not so generic long save
@@ -7946,6 +8089,7 @@ I wanna be the Octophobia
 I wanna be the OD
 I wanna be the Odaiba
 I wanna Odoryanse
+I wanna be the Odyssey
 I wanna be the OE
 i wanna be the of KING
 I wanna be the Off party!!
@@ -8013,6 +8157,8 @@ I wanna Onegai Darling
 I wanna be the Onelife
 OneNeedle-1
 I wanna be the ONG
+I wanna be the ONG2
+I wanna be the Onii-Chan
 I wanna be the Online
 I wanna onlineedle2
 I wanna onlineedle3
@@ -8097,11 +8243,13 @@ I Wanna Overcome the Darkness
 I wanna overcome the Lowly trap
 I wanna overcome the Nothing
 I wanna Overcoming the Color Blindness
+Overdose Casino
 I wanna be the Overhead
 I wanna be the overhead Remake
 I wanna overlap the Leaf
 I wanna be the Overlord
 I wanna Override
+I wanna OVERSOUL
 I wanna be the OW
 I Wanna Be The Owata Needle
 Owata's Hard Life
@@ -8116,8 +8264,10 @@ I Wanna p!mp!n Needle
 P.M.P 1
 I wanna be the P.R.C Trap
 I wanna be the P2 Present
+P6ul's I Wanna Test The Game
 I wanna be the Pacemaker
 Pachi Holidays 2023
+I wanna Packing Her Favorite
 I Wanna Paint the Colorful Needle
 I wanna paint to Stage
 I wanna paint to Stage 2
@@ -8264,6 +8414,7 @@ I Wanna Pet The Cat 2
 I wanna be the peti peti peti
 I wanna be the PeTrap
 I wanna be the PewDiePie
+I wanna be the PF
 I wanna be the PG
 I wanna be the PG easy version
 I wanna Phalanx
@@ -8334,6 +8485,7 @@ I wanna Plan 8
 I wanna be the Plane Jump
 I wanna be the Planeptune
 I wanna be the Planet
+I wanna planet 100
 I wanna be the Planet Doku
 I wanna be the PLANETS
 I wanna plant seeds
@@ -8421,9 +8573,12 @@ I wanna play the Fluquor
 I wanna play the FUJIN Rumble
 I wanna Play the Game
 I wanna play the game
-I wanna Play The Game 2
+I Wanna Play The Game
 I wanna Play The Game 3!!!
-I wanna Play The Game 4
+I wanna Play The Game 4!!!!
+I wanna Play The Game 5!!!!!
+I wanna Play The Game 6!!!!!!_Demo
+I wanna Play The Game 7
 I wanna play the Giri block
 I wanna play the hide-and-seek
 I Wanna play the ILispike
@@ -8522,6 +8677,7 @@ I wanna be the Ponpon
 I wanna pony
 Pony Spike
 I wanna poop
+Poopy Diapy Boy
 Poor Mind
 I wanna pop team epic
 I wanna Pop Your Cherry
@@ -8563,6 +8719,7 @@ I wanna PPAP2
 I wanna be the PPK
 I wanna PPP
 I wanna be the PPT Needle
+I wanna Prac
 I wanna be the Practice
 i wanna practice
 I wanna practice 7050
@@ -8770,6 +8927,7 @@ I wanna qoqoqo 300 EasyVer
 I wanna qoqoqo origin
 I wanna qowulu 100
 I wanna be the Quadrangle
+I wanna be the Quadrangle -Weight Saving-
 I wanna Quadruple Tomodati
 I wanna Quaint
 I wanna be the Qualification
@@ -8786,6 +8944,7 @@ I wanna be the Quarzious - Quarzious Mode
 I wanna Qubism
 I wanna be the Queen Trap
 I Wanna Quell
+I Wanna Quench The Castle Blaze
 I wanna QueSeraSera
 I wanna Quest
 I Wanna Question Mark
@@ -8846,6 +9005,7 @@ I wanna Ranchiki
 I wanna be the random
 Random Games from my Desktop
 I wanna be the random generator
+I wanna Random Mush Up
 I wanna be the Random spike
 I wanna be the Random Spikes
 I wanna random(360)
@@ -8908,6 +9068,7 @@ I wanna read the grimm easy
 I wanna read the Kanji
 I wanna ready for the blue
 I wanna realize
+Realize
 I wanna realize that needle is hard to make
 I wanna realized this is a Trap
 I Wanna Be The Really Dense Take On Imperfection
@@ -9019,6 +9180,7 @@ I Wanna Remember The Rain
 I wanna remember the Reitengo
 I wanna be the Remembrance
 I wanna be the Remind
+I Wanna Remind
 I wanna Reminiscence
 I wanna Reminiscence2
 I wanna REMIX
@@ -9034,6 +9196,7 @@ Renkollab
 I wanna repair my Control 2
 I Wanna Repeat the Map Once More
 I wanna Repent
+I wanna be the Replica
 I wanna be the Repliforce
 I wanna be the Repotente
 I wanna requiem
@@ -9238,6 +9401,7 @@ I wanna run together
 run under clouds
 I wanna run under the moon
 RUN! and JUMP! and FUN!
+I Wanna Runaway Baby
 I wanna be the Runner
 I wanna be the runner
 I Wanna Rush E
@@ -9277,6 +9441,7 @@ I wanna saber4
 I wanna saber5
 I wanna saber6
 I wanna sad
+i wanna SAD MAX(感動タイプ)
 I wanna SADAME
 I Wanna Be the Sadist
 Sadness needle
@@ -9324,12 +9489,14 @@ Saul Goodman
 Saul Goodman Bossfight
 I wanna be the SAV
 I Wanna Save
+I wanna SAVE and RESET(unfinished)
 I Wanna Save Christmas
 I Wanna Save her (IN WORKS)
 I Wanna Save My Boy
 I Wanna Save My Princess
 I wanna save the Earth
 I wanna save the Fox
+I wanna save the grill 2014
 I wanna save the kid
 I wanna save the Kids
 I wanna save the King
@@ -9365,6 +9532,7 @@ I wanna say Youmu
 I wanna Sayonara
 I wanna be the SB
 I wanna SBB
+I wanna be the SBB
 I wanna SBWC
 I wanna be the SC
 I Wanna SC
@@ -9410,6 +9578,7 @@ I Wanna Be The Scratcher
 I wanna be the scrawl
 I wanna be the Scribble
 Scribble Notes
+I wanna script
 I wanna Scroll My Mousewheel Downwards
 I Wanna Scroll My Mousewheel Downwards 2- Scroll Harder
 I Wanna Scroll My Mousewheel Downwards 3 - Scroll with a Vengeance
@@ -9497,6 +9666,7 @@ I wanna see the red sky
 I Wanna See The Rhinogobius
 I wanna see the RUSRANDOM
 I wanna see the Sahara
+I Wanna See The Sakura Trees
 I wanna see The Santa Claus
 I wanna see the Scattered Candlelight
 I wanna see the Secret
@@ -9560,6 +9730,7 @@ I Wanna Sensation
 I wanna sense your horror
 I wanna sense your horror Extra
 Sent Mr.ゆきぃ a Present
+Seonghoon tanmak
 I Wanna Be The Separation
 Sepia Needle
 I wanna be the Sequence
@@ -9578,7 +9749,10 @@ I wanna be the serpent
 I Wanna Sertraline
 I wanna Servier
 I wanna Serving The God
+I wanna Seven buttons ASTRAIA
+I wanna be the seven eggs
 I wanna be the Seven load
+Seven Nights At Series Z
 Seventh V
 I wanna Sevg LV3
 I wanna be the Sewer Survivor
@@ -9748,11 +9922,18 @@ I wanna siriai
 I Wanna Be The Siroonoire
 I wanna be the sisfdiwe
 I wanna be the SIT
+I Wanna Sit In A Beautiful Detective's Lap
+I Wanna Sit In A Beautiful Dragon's Lap
+I Wanna Sit In A Beautiful Girl's Lap
+I Wanna Sit in a Beautiful Tanukis Tail
+I Wanna Sit In A Beautiful Witch's Lap
 I wanna be the Six Elements
 Six needles
 I wanna be the six trillion
 I wanna be the Sixia
 I wanna be the SK
+I wanna be the SK 0
+I wanna be the SK 1
 I wanna sked 13
 I wanna be the Skeleton
 skeleton game 2
@@ -9804,7 +9985,7 @@ I wanna be the Slow2
 I wanna be the Slow3
 I Wanna Slowly Go Quickly
 I wanna be the SM
-I wanna sm spike!
+SM needle 2025
 I wanna SMAAAAAAAAAASH!!!
 I Wanna Small Room
 I wanna be the Small town
@@ -9837,6 +10018,7 @@ I wanna snoel lift jump
 I wanna snoel needle
 Snoel Omikuzi 2021
 Snoel Omikuzi 2022
+Snoel Omikuzi 2025
 I wanna snow
 I wanna be the snow (Nadir-P)
 I wanna be the snow and star
@@ -9847,6 +10029,7 @@ I wanna Snow Goose
 I wanna Snow Halation
 I Wanna Be The Snow Needle
 I Wanna Be The Snow Needle(demo)
+I wanna snow shadow
 I Wanna Snow The Ball
 I wanna be the Snow which falls
 I wanna be the snow!
@@ -9856,6 +10039,7 @@ snowy night, at 25:00
 I wanna SNTF
 I wanna so
 So Called 'Free Thinkers' When They Hear Gimmick Needle
+So cute～
 i wanna so happy
 I wanna so light blue
 Soaring Delight
@@ -9874,6 +10058,7 @@ I wanna be the Solitary
 I wanna solitus
 Solnyshko
 I wanna be the Solo
+I wanna be the solution
 I wanna solve 4+1
 I wanna solve color puzzle
 solve et coagula; or, the inner machinations of the game
@@ -9949,12 +10134,12 @@ Spice of Life Needle
 I wanna be the Spich 2
 I wanna be the Spike
 I Wanna Be The Spike
-Spike : The game
 spike I wanna escape
 spike i wanna escape 2: remaster
 spike i wanna escape 3: direction cut
 spike i wanna escape 4: final designation
 spike game a present douzo!!
+I wanna spike game with the triangles
 I wanna spike Lovegood
 I wanna be the Spike Master!
 I wanna be the Spike Master!Ⅱ
@@ -9980,6 +10165,9 @@ Spirited Delight
 I wanna be the Spirits of the war dead
 Splatter Fate
 I Wanna Splatter Party
+I wanna be the Splendid alfonsino
+split mushroom challenge
+Spoiled Angel
 spong
 I Wanna Sponge The Bob
 I Wanna Spook Jam
@@ -9995,6 +10183,7 @@ I wanna be the Square
 I wanna be the square
 Square Circle Rectangle And Triangle
 I wanna be the SRF
+I wanna be the SRT
 I wanna be the SSE
 I wanna SSK
 I wanna be the SSR
@@ -10076,6 +10265,7 @@ I Wanna Steal Santa Cookies
 I Wanna Steal The Birthday Cake
 I Wanna Steel Edge
 I wanna stella = steLLa
+Stella's tmp Series Pack
 I Wanna Stella`s Magic
 I wanna StellLive Question
 I Wanna Step Outside the Needle
@@ -10236,6 +10426,8 @@ Super F 4
 Super F 5: Steak Edition (feat. Colonel)
 Super F 6 - Trump and Rukito edition
 Super F 7
+Super F 8
+Super F 9
 Super F II - Rebirth
 Super F Side Story - Infinity Trials
 I wanna be the Super Fish
@@ -10264,6 +10456,7 @@ SuperMishanya's Revenge
 Supernal beings
 Supernal beings +
 I wanna be the Supernova
+I wanna supply a target
 I wanna be support the Mario。
 I Wanna Be The Supreme
 I Wanna Surf the Internet
@@ -10355,11 +10548,14 @@ I wanna take a trip to HekiRyuu Town
 I Wanna Take A Walk In The Sun
 I Wanna Take Another Look Inside
 take back the world color
+I wanna Take Five Steps Back
 I wanna take me with you when you go
 I Wanna Take Off The Hardship
+I wanna Take One Step Back
 take over your life
 I wanna take plenty of exercise
 I wanna take Sanctions
+I wanna Take Six Steps Back
 I wanna take the Confession
 I wanna take the crazy CRA
 I Wanna Take The Curtain Call
@@ -10380,7 +10576,9 @@ I wanna take the Timemachine
 I wanna take the Timemachine 2
 I wanna take the tomodati
 I wanna Take the Tutorial
+I wanna Take Three Steps Back
 I wanna take turns
+I wanna Take Two Steps Back
 I Wanna Take You Into The Mind Of Someone Making A Game For galaxii
 I wanna take your mind off
 i wanna take your time
@@ -10440,6 +10638,7 @@ I wanna be the Tegetege!
 I wanna be the Tegliem
 I wanna tell sympathy
 I wanna tell the Secret
+I WANNA TELL THE UNDER'S TALE
 I Wanna Tell The World
 I wanna tell the World
 I Wanna Tell The World v1.1 (REMAKE. ver)
@@ -10497,6 +10696,7 @@ I Wanna Test The Game (Test)
 I Wanna Test The Subject
 I Wanna Test the Waters
 I Wanna Test Your FPS
+test11-3
 I wanna be the Tether
 I wanna be the Tethys
 I wanna be the TETO
@@ -10527,6 +10727,7 @@ I wanna thank the Ashotovka 8
 I wanna thank the Ashotovka 9
 I wanna thank the Ashotovka Happy New Year
 I wanna thank the Ashotovka X
+I wanna thank the Ashotovka: Смертельный Халавин
 I wanna thank the Ashotovka: Тыквенный Спас
 I wanna thank the Ashotоvka 11
 I wanna thank the El Zorgo
@@ -10549,6 +10750,7 @@ Thanks for 2020!! - Thanks for I wanna!!
 Thanks for 2021!!
 Thanks For 2022!!
 Thanks For 2023!!
+Thanks For 2024!!
 Thanks for I wanna!!
 Thanks to pig
 I wanna That
@@ -10586,6 +10788,7 @@ The F And The Super F 9
 The Farewell Medley
 the fight against the ultimate threat
 The first 0q938r's Miku avoidance
+The first bowl of Congee in 2025
 The First IW By roubaozi
 The fooled clown
 The Fractal
@@ -10599,7 +10802,7 @@ The Guy!
 The Happy Game
 The Ice Fairy's Spike Trials!!!!!
 The Impossible Collab
-THE iWANNAM@STER-アイワナマスター-
+The Impossible Collab Ver.Possible
 The k2 PYF room, but it's like an L-game
 The Kid in Novil Space
 The Kid Saves Christmas!
@@ -10629,6 +10832,7 @@ The REAL JRocker Area
 The REAL Kiyoshi Area
 The REAL p00ks Area - (RB5MMVSBC)
 The Real Roaka Area
+The Scariest Game Ever
 The Secret of Blue Water
 The silent fart
 The Small Fall Collab
@@ -10662,11 +10866,9 @@ I wanna Think of the consequences
 I wanna think outside of the box
 I wanna be the Thinking
 third humble goodbye
-I wanna this
-This is own arrange
+I wanna be the Third Needle
 This iwanna is an invalid draft
 This IWBTG contains... uhhhhhh
-This IWBTG Fangame is Untitled
 This short trap game is more confusing than my entire life
 This Wanna Be The Day
 I wanna be the THM
@@ -10684,6 +10886,7 @@ I wanna through all maps
 I wanna through the 20連納豆?????
 I wanna through the Line Spikes
 I wanna through the trial
+I wanna through the trial 3
 I wanna throw the dice 2
 I wanna throw the sheep
 I wanna be the thumbnail
@@ -10725,6 +10928,7 @@ I wanna TKTU spike3
 I wanna be the tL
 Tlahuizcalpantecuhtli
 I wanna be the TLOR
+tmdt
 tmp01
 tmp14
 tmp17
@@ -10732,10 +10936,12 @@ tmp19
 tmp22
 tmp24
 tmp26
+I wanna be the TMR
 I wanna be the TNA
 I wanna be the TNH
 I wanna be the TNI
 I wanna be the TNT
+I wanna be the TNW
 I wanna to a place with warm
 I wanna to arrive the Blue sky
 I wanna to be a needle game pro
@@ -10853,9 +11059,11 @@ I Wanna Transcend The Control
 I wanna Transforkids
 I wanna transform
 I wanna be the Transformation Boy
+Transgender Juice
 I Wanna Transgress Erratically
 I Wanna Transition Into The Ghost Realm
 I wanna be the Transitory spikes
+I wanna transmit electricity
 I wanna Trap Online
 I wanna Trap The Needles!!
 I wanna be the Trap trainer(わなとれ)
@@ -10902,6 +11110,7 @@ I wanna travel to the Moon
 I wanna be the traveller
 I Wanna Traverse The Harvest
 I wanna traverse the Interstellar
+I Wanna Traverse The Kenai
 I wanna Traverse the Neon Rainbow
 I wanna traverse the precipice
 I Wanna Traverse The Seven Aspects
@@ -10939,9 +11148,11 @@ I wanna be the troll
 I wanna be the Troll
 I wanna troll the Frag
 I wanna Troublesome
+I wanna be the true 30 diff fangame
 I wanna be the True ATK2
 True or False GBC
 I wanna Be the true owata
+I WANNA TRY - A New Adventure (Demo)
 I wanna try a Collab
 I wanna try a Collab 2
 I wanna try again.
@@ -10958,7 +11169,6 @@ I wanna try the kamirin EX
 i wanna try the moyasi challenge
 I wanna try the Needle trap
 I wanna Try the Older Version Of Yoyoyo Engine
-I wanna try the studio 1
 I wanna try the 一発でクリアしないと処刑チャレンジ
 I wanna try to Beat The Really Really Really Really Really Long Save
 I Wanna Try To DJ This Party: An Appreciation Universe Story
@@ -11027,8 +11237,10 @@ I wanna be the TWT
 I wanna type well
 I wanna U
 I wanna U-n!!
+Uber Enters a Cave
 I wanna be the Udon
 I wanna ufo
+I wanna be the UFO
 Ufo Boss - Mastermaxify special edition
 ugh
 I wanna be the Ugomemo
@@ -11066,6 +11278,7 @@ I wanna be the Unbreakable Machine Doll
 I wanna be the Unconfirmed
 I wanna be the unconscious
 I wanna be the Unconscious
+Unconscious Love&amp;Crazy Pierrot
 unconscious needle
 Unconscious Requiem
 I wanna Uncreative
@@ -11097,6 +11310,7 @@ I wanna be the Unskilled
 I wanna be the Unskilled ver.1.1
 I wanna be the UNTI
 I wanna untie the thread
+Untitled
 Untitled DEMO
 untitled needle game
 Untitled Rn
@@ -11197,7 +11411,6 @@ I Wanna Vanish Needles!!
 I wanna be the Vanitas
 I wanna be the Vardoc
 i wanna be the vardoc game
-I wanna be the Vargskelethor
 I wanna Variety 100
 I wanna be the Various
 I wanna be the VCL
@@ -11246,6 +11459,7 @@ I Wanna Vigorously
 I wanna be the Village
 I wanna Vine Journey
 I wanna be the Vine Tutorial
+Vinegar Needle
 I wanna be the vinyl
 I wanna be the Violence
 I wanna be the Violent shaking
@@ -11307,6 +11521,7 @@ I wanna W D Collections
 I wanna W S
 I wanna W S Ⅱ
 wa
+Wabishii MARIO World
 i wanna be the wahha creator for everyone
 I Wanna Be The Wait
 i wanna wait 7 days
@@ -11329,6 +11544,7 @@ I wanna walk a distantly far away
 I Wanna Walk Along The 3rd Avenue
 I wanna Walk on Sunshine
 I wanna Walk Out In The Morning Dew
+i wanna walk out in the rain
 I wanna walk out of haziness
 I Wanna Be The Walk Remastered
 I wanna walk the blue
@@ -11362,6 +11578,7 @@ I Wanna be the Wang Tang Ticky
 I wanna wanna
 Wanna Cherrys
 WANNA Gimmix
+I Wanna Be The Wannabe
 WannaFest 22
 I wanna be the wannaguymaster
 I wanna want the 3 jump
@@ -11514,6 +11731,7 @@ Wish you luck
 Wistfully
 I wanna witch on the holy night
 I wanna with chocolate
+I wanna be the with friends
 I wanna with Stability
 I wanna with you
 I wanna Wither
@@ -11617,6 +11835,7 @@ I wanna be the xxx
 I wanna be the Xylem
 Xynchrome*
 I wanna XYZ Spike
+X_Floor Game
 I wanna Y
 I wanna Y prototype
 I Wanna Be The Y2K
@@ -11655,6 +11874,8 @@ I wanna yet the Darker
 I wanna be the YEZ
 I wanna be the YG
 I wanna be the YGB
+I wanna be the YGO
+I wanna be the YGQ
 I wanna YIIRA
 I Wanna Be The YJ
 I wanna YJSNPI
@@ -11718,10 +11939,10 @@ I wanna be the YURURU
 I wanna be the yutaka comunities first anniversary
 I wanna Yuuna
 I Wanna Be The Yuutu Engine Lite
-I Wanna Be The Yuuutu Engine Lite
 i wanna yuuzin
 I Wanna be the Yuyuko
 I wanna be the YY
+I wanna be the YY Boss Rush
 I wanna be the YY2
 I wanna be the YYH
 I wanna be the Yyksm
@@ -11732,6 +11953,7 @@ I wanna Z spike
 I wanna Z Spike 2
 I wanna Z Spike 3
 I wanna be the Z,T
+I wanna be the Zairu
 I wanna Zap the Mas
 I wanna zatsusa
 I wanna be the Zatsuza &amp; Larsa
@@ -11771,6 +11993,7 @@ I wanna be the [NAME HERE]
 [trap仅中文]Not Another EX15 Game 1 V1.04
 I Wanna [VERB] the [ADJECTIVE] [NOUN]
 I wanna be the []
+I wanna ]
 I wanna be the ]-[│／34＜#!
 I wanna be the ^dh^
 I wanna be the ^p^
@@ -11828,6 +12051,7 @@ I wanna Ω
 I wanna be the ω
 I wanna Њ
 I wanna be the Без Имени
+I Wanna БЕЗНОГNМ
 Выпердеж
 Долина непобитых бутылок
 I wanna Ё
@@ -11835,6 +12059,7 @@ I wanna К
 маленький человек 4
 о, майор закричал
 Поле чудес: Капитал Шоу
+Разъебать.
 I wanna ц
 I wanna ч
 I wanna ч2
@@ -11850,6 +12075,7 @@ I Wanna Э
 I wanna Ю
 I Wanna Я
 I wanna Я Extra
+я знаю кем я хочу стать! I wanna lame
 I wanna Ҭ
 I wanna բ
 I wanna ב
@@ -11868,6 +12094,7 @@ I Wanna ‽
 I wanna ℞
 I wanna ™
 I wanna ℵ
+Ⅰ wanna Kill The Kid
 I wanna ←
 I wanna ↑
 I wanna ↑↑↓↓←→←→BABA
@@ -11901,6 +12128,7 @@ I wanna ⊥
 I wanna ⋡
 I wanna ⑨
 I Wanna ╭(╯^╰)╮
+i wanna □
 I wanna △▽△
 I wanna ◇
 ○○的なアイワナ
@@ -11935,11 +12163,14 @@ I wanna 」
 あいわなつくったよ
 あいわなびーざしるえっと！！
 あいわなポンデかてたまには歌いたいねん
+I wanna be the あきらめるなよ
+I wanna be the あけおめサイバー
 I wanna あなた、サマー（夏）
 あのコース
 I wanna be the あびゃ～
 I wanna be the あびゃ～。
 I wanna be the あびゃ～２
+あふぉ針ゲ
 あほげ2
 あほげ2019
 あほげ3
@@ -11947,6 +12178,7 @@ I wanna be the あびゃ～２
 あほげ６
 あほ針ゲ
 I wanna be the あまとう
+I wanna あやす maneater
 I wanna be the あらららら
 あれなんてあいわなだっけ？
 I wanna be the うぇｗ
@@ -11974,8 +12206,29 @@ I wanna be the お先ッスｗｗｗｗｗｗｗｗｗｗｗｗ
 I wanna be the お米のムーゲ
 I wanna be the お遊び
 かるいなにか1
+かるいなにかお手手つなぎor対決用001
+かるいなにかお手手つなぎor対決用002
+かるいなにかお手手つなぎor対決用003
+かるいなにかお手手つなぎor対決用004
+かるいなにかお手手つなぎor対決用005
+かるいなにかお手手つなぎor対決用006
+かるいなにかお手手つなぎor対決用007
+かるいなにかお手手つなぎor対決用008
+かるいなにかお手手つなぎor対決用009
+かるいなにかお手手つなぎor対決用010
+かるいなにかお手手つなぎor対決用011
+かるいなにかお手手つなぎor対決用012
+かるいなにかお手手つなぎor対決用013
+かるいなにかお手手つなぎor対決用014
+かるいなにかお手手つなぎor対決用015
+かるいなにかお手手つなぎor対決用016
+かるいなにかお手手つなぎor対決用017
+かるいなにかお手手つなぎor対決用018
 かるいなにかお手手つなぎor対決用019
 かるいなにかお手手つなぎor対決用020
+かるいなにかお手手つなぎor対決用021
+かるいなにかお手手つなぎor対決用022
+I wanna BE the かんとか
 I wanna be the かーにばる
 I wanna きしめん
 きちがいアイワナへようこそ！クリアやダウンロードには32097129-57523時間と345810956790万年かかります あーきちがい針が3564312856748個飛んできました
@@ -12036,6 +12289,7 @@ I wanna be the ちょこぱい
 I wanna ちょこれーと!
 ちょっとありえナイワナ
 ちょっとした針ゲー
+ちょっとむずかしいアイワナ
 I wanna be the ちんちんとさせて申し訳ないです
 I wanna っぽいの
 I wanna be the つくろうキッドくん
@@ -12129,7 +12383,6 @@ I wanna be the ろろなたん
 わかさぎ姫の命を懸けた寿司ネタ100本勝負！！！
 わたしたわしわたしたわ
 わっかんない★
-わっかんない★
 わっしょい
 わっしょい２
 I wanna be the わーぷ
@@ -12150,6 +12403,7 @@ I wanna be the アイブイ
 I wanna be the アイワナ制作初心者
 アイワナ力診断テスト
 アイワナ基盤
+アイワナ素材集
 アイワナ２
 I wanna be the アクション
 I wanna be the アクション 2
@@ -12205,6 +12459,7 @@ I wanna be the チェス
 チーム対抗型アイワナ対決～ハード用～
 I wanna be the ツンデレ
 I wanna be the ツーH
+テスト
 i wanna be the テスプレ製作者
 トドちゃん
 I wanna be the ドS
@@ -12241,6 +12496,7 @@ I Wanna Be The マジ卍 Easyver
 ミラーボール練習
 I wanna be the メタボリックシンドローム
 ヤケクソアイワナ
+I wanna be the ヤンデレ
 I wanna be the リア充！
 I wanna be the リア充！2nd season
 I wanna be the リア充！3rd season The Final
@@ -12422,6 +12678,7 @@ I wanna be the 挑戦状
 挑戦状第二弾
 挑戦状第四弾
 I wanna 摆烂
+I wanna 摇骰子
 操大逼
 I wanna be the 敵か！味方か！大根マン！
 I wanna be the 斜め針祭り！いろは
@@ -12637,11 +12894,14 @@ I wanna be the 針雪３
 I wanna be the 錯乱boy
 間違ったリフトの使い方
 I wanna 関口宏
+问：如何创造一个超绝的优质抄袭向耐久合集？
+I wanna 阿修羅 the 味噌
 I wanna be the 難しいと思われる針ゲー
 I wanna be the 難しいアイワナ
 i wanna be the 難しいトモダチ
 難しい針ゲー
 難しすぎな針ゲー
+雨夜~ The Rain
 I wanna 雫
 I wanna 零
 I wanna be the 青罠

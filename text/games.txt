@@ -14,7 +14,7 @@ ULTRAKILL
 vivid/stasis
 Mystia's Izakaya
 Payday 3
-Webfishing
+WEBFISHING
 Geometry Dash
 Black Mesa
 100% Orange Juice
@@ -28,3 +28,7 @@ Sonic Forces
 the new pokemon game
 the new mario game
 the new sonic game
+Balatro
+TETRIS THE GRANDMASTER 4 - ABSOLUTE EYE -
+GUILTY GEAR -STRIVE-
+Momentum Mod
