@@ -15,7 +15,9 @@ def readfile(file):
     return array
 
 def get_random_element(vari):
-    temp = [random.choice(vari), random.choice(vari)]
+    temp = ["a", "a"]
+    while temp[0]==temp[1]:
+        temp = [random.choice(vari), random.choice(vari)]
 
     text = list(map(lambda string: string.rstrip(), temp))
 

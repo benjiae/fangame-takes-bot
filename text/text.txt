@@ -30,7 +30,7 @@ why are {f_type[0]} games so bad holy fuck
 {f_type[0]} games are impossible ngl
 Cool {fangame[0]} screens, a thread 🧵: (0/{random.randint(1,30)})
 i have just found out that {fangame[0]} is the best fangame of all time, there's the reasons: (0/{random.randint(1,97)})
-wdym {fangame[0]} has a rating of {random.randint(1,10)}.{random.randint(0,9)} it should be like {random.randint(1,10)}.{random.randint(0,9)}
+wdym {fangame[0]} has a rating of {random.randint(1,9)}.{random.randint(0,9)} it should be like {random.randint(1,9)}.{random.randint(0,9)}
 there's no way in hell {fangame[0]} is {random.randint(0,99)}.{random.randint(0,9)} diff, it's like {random.randint(0,99)}.{random.randint(0,9)}
 does anyone have the {fangame[0]} maker's @ i wanna tell them something
 {thing[0]} ruined {f_type[0]}
