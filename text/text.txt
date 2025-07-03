@@ -41,3 +41,5 @@ man i love {f_type[0]} games
 {fangame[0]} would be better if it had {thing[0]}
 {fangame[0]} would be worse if it had {thing[0]}
 man imagine if {thing[0]} was more like {thing[1]}
+{fangame[0]} is so real tbh
+{fangame[0]} is an invention by big fangame to sell more {thing[0]}
